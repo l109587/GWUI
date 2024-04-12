@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "data": {
+    "general": {
+      "pwdAuth": "N",
+      "smsAuth": "N",
+      "twoFactorAuth": "N",
+      "phoneAuth": "Y",
+      "domainAutoAuth": "Y",
+      "forgotPWD": "Y",
+      "modifyMode": "sms",
+      "remoteTip": "",
+      "remoteLink": "",
+      "smsConfig": "",
+      "authTip": "Y",
+      "tipInfo": "富文本编辑"
+    },
+    "localAuth": {
+      "webRegsw": "Y",
+      "modifyFirst": "N",
+      "pwdComplexity": "N",
+      "pwdLength": "N",
+      "pwdPeriod": "N",
+      "periodDay": "0",
+      "autoRegister": "N",
+      "improveInfo": "N"
+    },
+    "otherAuth": {
+      "status": "N",
+      "authLink": "http://www.baidu.com",
+      "authFlag": "111",
+      "authKey": "222",
+      "keyExpire": 12,
+      "type": "common",
+      "appID": "333333333333",
+      "appKey": "4444444444"
+    },
+    "otherSend": {
+      "status": "N",
+      "radType": "",
+      "radServer": "",
+      "radPort": 0,
+      "radKey": "",
+      "radCharset": ""
+    },
+    "serverMail": {
+      "status": "Y",
+      "mailType": "SMTP",
+      "mailAddr": "45646",
+      "mailPort": 0,
+      "encrypt": "Y"
+    },
+    "serverRadius": {
+      "status": "Y",
+      "radType": "PAP",
+      "radServer": "7.7.7.7",
+      "radPort": 5432,
+      "radKey": "789546",
+      "radCharset": "UTF8"
+    },
+    "switchAuth": { "port": "2000" },
+    "thirdReport": {
+      "id": "1016",
+      "status": "Y",
+      "faceType": "currency",
+      "agreeType": "RESTful",
+      "srip": "3.3.3.3",
+      "srport": "8888",
+      "shareKey": "214",
+      "unicode": "UTF8"
+    }
+  }
+}

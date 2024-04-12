@@ -1,0 +1,85 @@
+{
+  "success": true,
+  "data": {
+    "nodes": [
+      {
+        "id": "192.168.134.1",
+        "name": "核心交换机",
+        "type": "core",
+        "ifNum": 52,
+        "termNum": 3,
+        "onlineIfNum":23,
+        "cpu": 50,
+        "mem": 60,
+        "termWarning": 2,
+        "x":-204.5,"y":2
+      },
+      {
+        "id": "192.168.134.162",
+        "name": "汇聚交换机",
+        "type": "converge",
+        "ifNum": 0,
+        "termNum": 0,
+        "onlineIfNum":0,
+        "cpu": 50,
+        "mem": 60,
+        "x":212,
+        "y":259
+      },
+      {
+        "id": "192.168.134.161",
+        "name": "汇聚交换机",
+        "type": "converge",
+        "ifNum": 52,
+        "termNum": 3,
+        "onlineIfNum":23,
+        "cpu": 50,
+        "mem": 60,
+        "x":60,
+        "y":220
+      },
+      {
+        "id": "192.168.134.163",
+        "name": "汇聚交换机",
+        "type": "converge",
+        "parent": "ac6deeb8",
+        "ifNum": 52,
+        "termNum": 3,
+        "onlineIfNum":23,
+        "cpu": 50,
+        "mem": 60,
+        "x":386,"y":272
+      },
+      {
+        "id": "192.168.134.164",
+        "name": "汇聚交换机",
+        "type": "converge",
+        "parent": "ac6deeb8",
+        "ifNum": 52,
+        "termNum": 3,
+        "onlineIfNum":23,
+        "cpu": 50,
+        "mem": 60,
+        "x":578,"y":114
+      }
+    ],
+    "edges": [
+      {
+        "source": "192.168.134.1",
+        "target": "192.168.134.161"
+      },
+      {
+        "source": "192.168.134.1",
+        "target": "192.168.134.162"
+      },
+      {
+        "source": "192.168.134.1",
+        "target": "192.168.134.163"
+      },
+      {
+        "source": "192.168.134.1",
+        "target": "192.168.134.164"
+      }
+    ]
+  }
+}

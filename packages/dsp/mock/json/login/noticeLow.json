@@ -1,0 +1,6 @@
+{
+    "status": true,
+    "title": "次要警告",
+    "content": "您有444条审批还未查看，页面跳转进行处理",
+    "router":"/sysmain/remote"
+}

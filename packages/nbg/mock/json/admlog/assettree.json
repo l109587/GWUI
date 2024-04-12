@@ -1,0 +1,162 @@
+{
+  "success": true,
+  "data": {
+    "type": {
+      "title": "\u8d44\u4ea7\u5206\u7c7b",
+      "total": 22,
+      "children": [
+        {
+          "id": "1",
+          "name": "PC\u8ba1\u7b97\u673a",
+          "icon": "PC",
+          "count": "253"
+        },
+        {
+          "id": "2",
+          "name": "\u865a\u62df\u673a",
+          "icon": "VM",
+          "count": "385"
+        },
+        {
+          "id": "6",
+          "name": "\u4ea4\u6362\u673a",
+          "icon": "SWITCH",
+          "count": "33"
+        },
+        {
+          "id": "27",
+          "name": "\u65e0\u7ebf\u8def\u7531",
+          "icon": "WIRELESS",
+          "count": "2"
+        },
+        {
+          "id": "28",
+          "name": "\u7f51\u7edc\u51c6\u5165",
+          "icon": "NAC",
+          "count": "26"
+        },
+        {
+          "id": "29",
+          "name": "\u65e0\u7ebf\u70ed\u70b9",
+          "icon": "AP",
+          "count": "1"
+        },
+        {
+          "id": "33",
+          "name": "\u5b89\u5168\u8bbe\u5907",
+          "icon": "SAFETY",
+          "count": "17"
+        },
+        {
+          "id": "34",
+          "name": "\u7f51\u7edc\u8bbe\u5907",
+          "icon": "NETWORKDEVICE",
+          "count": "3"
+        },
+        {
+          "id": "35",
+          "name": "\u865a\u62df\u5316\u670d\u52a1\u5668",
+          "icon": "VMSERVER",
+          "count": "20"
+        },
+        {
+          "id": "36",
+          "name": "\u7f51\u7edc\u5b58\u50a8",
+          "icon": "NAS",
+          "count": "1"
+        },
+        {
+          "id": "40",
+          "name": "\u5e94\u7528\u670d\u52a1\u5668",
+          "icon": "APPSERVER",
+          "count": "2"
+        },
+        {
+          "id": "45",
+          "name": "\u6253\u5370\u670d\u52a1\u5668",
+          "icon": "PRINTINGSERVER",
+          "count": "1"
+        },
+        {
+          "id": "47",
+          "name": "\u5927\u6570\u636e\u670d\u52a1\u5668",
+          "icon": "BIGDATA",
+          "count": "1"
+        },
+        {
+          "id": "49",
+          "name": "\u670d\u52a1\u5668",
+          "icon": "SERVER",
+          "count": "30"
+        },
+        {
+          "id": "50",
+          "name": "\u7f51\u7edc\u6444\u50cf\u5934",
+          "icon": "CAMERA",
+          "count": "19"
+        },
+        {
+          "id": "58",
+          "name": "\u6253\u5370\u673a",
+          "icon": "PRINTER",
+          "count": "7"
+        },
+        {
+          "id": "65",
+          "name": "\u624b\u673a",
+          "icon": "MOBILEPHONE",
+          "count": "5"
+        },
+        {
+          "id": "80",
+          "name": "\u7f51\u7edc\u786c\u76d8\u5f55\u50cf\u673a",
+          "icon": "NVR",
+          "count": "1"
+        },
+        {
+          "id": "97",
+          "name": "\u53f0\u5f0f\u673a",
+          "icon": "DESKTOP",
+          "count": "12"
+        },
+        {
+          "id": "98",
+          "name": "\u7b14\u8bb0\u672c\u7535\u8111",
+          "icon": "LAPTOP",
+          "count": "60"
+        },
+        {
+          "id": "65534",
+          "name": "\u7279\u5b9a\u8bbe\u5907",
+          "icon": "SPECIALIZED",
+          "count": "2"
+        },
+        {
+          "id": "65535",
+          "name": "\u672a\u77e5\u7c7b\u578b",
+          "icon": "UNKNOWN",
+          "count": "123"
+        }
+      ]
+    },
+    "tag": {
+      "title": "\u8d44\u4ea7\u6807\u7b7e",
+      "total": 5,
+      "children": [
+        { "id": "1", "name": "YYY\u7684PC", "count": "1" },
+        { "id": "2", "name": "\u5927\u534e\u6444\u50cf\u5934", "count": "1" },
+        {
+          "id": "3",
+          "name": "\u897f\u5b89\u5206\u6253\u5370\u673a",
+          "count": "5"
+        },
+        {
+          "id": "7",
+          "name": "\u8fb9\u754c\u5b89\u5168\u90e8(\u897f\u5b89)",
+          "count": "99"
+        },
+        { "id": "8", "name": "\u5317\u4eac\u8d44\u4ea7", "count": "1" }
+      ]
+    }
+  }
+}

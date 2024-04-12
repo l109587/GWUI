@@ -1,0 +1,189 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1000,
+      "flag": 1,
+      "dest": "255.255.255.255",
+      "next": "255.255.255.255",
+      "mask": "255.255.255.255",
+      "dev": "x"
+    },
+    {
+      "id": 1001,
+      "flag": 0,
+      "dest": "255.255.255.255",
+      "next": "255.255.255.255",
+      "mask": "255.255.255.255",
+      "dev": "x"
+    },
+    {
+      "id": 1002,
+      "flag": 1,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1003,
+      "flag": 0,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1004,
+      "flag": 1,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1005,
+      "flag": 0,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1006,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1007,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1008,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1009,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1010,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1011,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1012,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1003,
+      "flag": 0,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1004,
+      "flag": 1,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1005,
+      "flag": 0,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1006,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1007,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1008,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1009,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1010,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1011,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    },
+    {
+      "id": 1012,
+      "inet": 4,
+      "dest": "x.x.x.x",
+      "next": "x.x.x.x",
+      "mask": "x.x.x.x",
+      "dev": "x"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "prdInfo": {
+    "pmodel": "VRV-BMG-10000",
+    "hwuuid": "V3EFGE-c612",
+    "uptime": "67天20小时8分钟",
+    "hwinfo": "1860 GB (0%)"
+  },
+  "licInfo": {
+    "serial": "aa33804a9f828c1642fe30b9b2ac8e26",
+    "status": "正式",
+    "status_color": "red",
+    "status_ftclr": "white",
+    "ahz_user": "test",
+    "ahz_type": ["正式","VGE-ACOIPIKHG"],
+    "svr_expi": "2021-11-21",
+    "svr_tele": "400-8188-110"
+  }
+}

@@ -1,0 +1,95 @@
+.portId {
+  &:hover {
+    background-color: rgba(255, 255, 255, .25);
+    border-radius: 50%;
+    cursor: pointer;
+  }
+}
+.ifIndexBg{
+  background-color: #ccc;
+  border-radius: 50%;
+}
+
+.typeIcon {
+  height: 16px;
+  line-height: 16px;
+  .b {
+    fill: none;
+  }
+  .a {
+    fill: #1677ff !important;
+  }
+}
+.osIcon{
+  height: 16px;
+  line-height: 16px;
+}
+.typeText {
+  margin-left: 10px;
+  width: calc(100% - 26px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: default;
+}
+.tab {
+  :global {
+    .ant-tabs-nav {
+      margin: 0;
+    }
+  }
+}
+.paneContainer{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.protPane{
+  width: 900px;
+  height: 130px;
+  background: url('../../../../assets/images/nswitch/panel_back.png') no-repeat;
+  background-size: 100% auto;
+  padding:17px 10px 6px 30px;
+  display: flex;
+  position: relative;
+  margin-top: 8px;
+}
+.paneItem{
+  margin-right: 8px;
+}
+.ifIndex {
+  display: flex;
+  justify-content: center;
+  font-weight: 800;
+  height: 24px;
+  line-height: 24px;
+  font-size: 12px;
+  width: 24px;
+}
+.portItemContainer{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.imgContainer{
+  background-color: #e9e9e9;
+  width: 26px;
+  height: 25px;
+  padding-left: 3px;
+}
+.img{
+  width: 21px;
+  height: 20px;
+}
+.searchInput{
+  :global{
+    .ant-input-search{
+      width: 200px !important;
+    }
+  }
+}
+.menu{
+  line-height: 30px;
+}
+

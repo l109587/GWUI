@@ -1,0 +1,22 @@
+<svg id="违规设备-已配置" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1677ff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1070" data-name="矩形 1070" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_1142" data-name="组 1142" class="cls-2">
+    <path id="路径_3549" data-name="路径 3549" class="cls-1" d="M14,0H2A2,2,0,0,0,0,2V14a2,2,0,0,0,2,2H14a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2m1,14a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1v-1.01H11v1h1v-1h1v1h1v-1h1v-1H1V2A1,1,0,0,1,2,1H14a1,1,0,0,1,1,1Z"/>
+    <path id="路径_3550" data-name="路径 3550" class="cls-1" d="M8.777,2.431a.916.916,0,0,0-1.553,0L2.744,9.6A.915.915,0,0,0,3.52,11l8.96,0h0a.916.916,0,0,0,.776-1.4ZM3.672,10,8,3.075,12.329,10Z"/>
+    <rect id="矩形_1069" data-name="矩形 1069" class="cls-1" width="1.125" height="2.249" rx="0.5" transform="translate(7.286 5.373)"/>
+    <path id="路径_3551" data-name="路径 3551" class="cls-1" d="M7.91,8.747H7.785a.5.5,0,0,0-.5.5v.125a.5.5,0,0,0,.5.5H7.91a.5.5,0,0,0,.5-.5V9.247a.5.5,0,0,0-.5-.5"/>
+  </g>
+</svg>

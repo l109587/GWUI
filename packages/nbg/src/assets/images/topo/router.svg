@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="39.52" viewBox="0 0 43 39.52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="路径_86" data-name="路径 86" class="cls-1" d="M.023,9.52V27.642C.023,34.208,9.651,39.52,21.5,39.52s21.477-5.326,21.477-11.885V9.52Z" transform="translate(-0.023 -9.52)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-0.001" y1="1" x2="0.023" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4da0ff"/>
+      <stop offset="0.67" stop-color="#1c77d8"/>
+      <stop offset="0.994" stop-color="#0054b0"/>
+      <stop offset="1" stop-color="#0054b0"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <ellipse id="椭圆_2" data-name="椭圆 2" class="cls-1" cx="21.5" cy="9.548" rx="21.5" ry="9.548" transform="translate(0 0)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" y1="1.663" x2="0.023" y2="1.663" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ad3fd"/>
+      <stop offset="0.465" stop-color="#4ab9f9"/>
+      <stop offset="0.994" stop-color="#189ff6"/>
+      <stop offset="1" stop-color="#189ff6"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <rect id="矩形_56" data-name="矩形 56" class="cls-1" width="43" height="31.748" transform="translate(0 0)"/>
+    </clipPath>
+  </defs>
+  <g id="路由器" transform="translate(0 0)">
+    <g id="组_87" data-name="组 87">
+      <g id="组_86" data-name="组 86" class="cls-2" transform="translate(0.023 9.52)">
+        <rect id="矩形_54" data-name="矩形 54" class="cls-3" width="42.954" height="30" transform="translate(0 0)"/>
+      </g>
+    </g>
+    <g id="组_89" data-name="组 89">
+      <g id="组_88" data-name="组 88" class="cls-4">
+        <rect id="矩形_55" data-name="矩形 55" class="cls-5" width="43" height="19.096" transform="translate(0 0)"/>
+      </g>
+    </g>
+    <g id="组_91" data-name="组 91">
+      <g id="组_90" data-name="组 90" class="cls-6">
+        <path id="路径_87" data-name="路径 87" class="cls-7" d="M20.054,8.489a.353.353,0,0,0,.2-.445L19.128,5.481c-.152-.344-.869-.457-1.293-.2a1.166,1.166,0,0,1-1.089,0L12.434,2.7a1.166,1.166,0,0,0-1.089,0l-.96.564a.349.349,0,0,0-.193.455.344.344,0,0,0,.193.194l4.3,2.579a.35.35,0,0,1,0,.655c-.423.249-.231.677.339.773l4.278.689a1.128,1.128,0,0,0,.751-.119m12.821,6.683a.35.35,0,0,0,.2-.451.347.347,0,0,0-.2-.2l-4.3-2.58a.349.349,0,0,1-.2-.451.345.345,0,0,1,.2-.2c.424-.254.232-.678-.338-.773l-4.284-.683a1.121,1.121,0,0,0-.745.118.353.353,0,0,0-.2.446l1.128,2.562c.153.345.87.458,1.287.209a1.178,1.178,0,0,1,1.095,0l4.3,2.58a1.173,1.173,0,0,0,1.09,0ZM10.127,16.266a.352.352,0,0,1-.2-.445l1.129-2.563c.152-.344.869-.457,1.292-.2a1.166,1.166,0,0,0,1.089,0l4.3-2.579a1.168,1.168,0,0,1,1.09,0l.959.564a.35.35,0,0,1,0,.649l-4.3,2.579a.35.35,0,0,0,0,.655c.423.248.232.677-.338.773l-4.273.712a1.129,1.129,0,0,1-.745-.142M22.088,7.628a.35.35,0,0,1-.2-.451.354.354,0,0,1,.2-.2l4.3-2.579a.35.35,0,0,0,.2-.451.354.354,0,0,0-.2-.2c-.423-.254-.231-.677.339-.773L31,2.289a1.127,1.127,0,0,1,.745.118.353.353,0,0,1,.2.446L30.819,5.415c-.152.345-.869.458-1.286.209a1.178,1.178,0,0,0-1.1,0l-4.3,2.58a1.171,1.171,0,0,1-1.089,0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="统计" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1677ff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1007" data-name="矩形 1007" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_1036" data-name="组 1036" class="cls-2">
+    <path id="路径_3468" data-name="路径 3468" class="cls-1" d="M15.5,15H1V.5a.5.5,0,0,0-1,0v15a.5.5,0,0,0,.5.5h15a.5.5,0,0,0,0-1"/>
+    <path id="路径_3469" data-name="路径 3469" class="cls-1" d="M8.5,14a6.5,6.5,0,0,0,6.475-6H15V7h-.025A6.493,6.493,0,0,0,9,1.025V1H8v.025A6.5,6.5,0,0,0,8.5,14m5.475-7H9.522l2.73-3.51A5.487,5.487,0,0,1,13.975,7m-2.51-4.126L9,6.043V2.025a5.471,5.471,0,0,1,2.465.849M8,2.025V8h5.975A5.5,5.5,0,1,1,8,2.025"/>
+  </g>
+</svg>

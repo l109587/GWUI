@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1238" data-name="矩形 1238" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="远程桌面" transform="translate(0 0)">
+    <g id="组_1266" data-name="组 1266" class="cls-2" transform="translate(0 0)">
+      <path id="路径_3728" data-name="路径 3728" class="cls-1" d="M17.5,0H2.5A2.5,2.5,0,0,0,0,2.5V13.729a2.5,2.5,0,0,0,2.5,2.5H9.419v2.5H4.375a.624.624,0,1,0,0,1.248H9.419V20h1.25v-.03h4.956a.624.624,0,1,0,0-1.248H10.669v-2.5H17.5a2.5,2.5,0,0,0,2.5-2.5V2.5A2.5,2.5,0,0,0,17.5,0m1.25,13.729a1.251,1.251,0,0,1-1.25,1.248H2.5a1.251,1.251,0,0,1-1.25-1.248V2.5A1.251,1.251,0,0,1,2.5,1.248h15A1.251,1.251,0,0,1,18.75,2.5Z" transform="translate(0 0)"/>
+      <path id="路径_3729" data-name="路径 3729" class="cls-1" d="M10.113,6.248H13.6A.624.624,0,1,0,13.6,5h-5a.61.61,0,0,0-.239.049.622.622,0,0,0-.339.337.647.647,0,0,0-.043.211c0,.01-.005.017-.005.027v4.993a.625.625,0,0,0,1.25,0V7.131l3.932,3.927a.624.624,0,1,0,.884-.882Z" transform="translate(1.995 1.24)"/>
+    </g>
+  </g>
+</svg>

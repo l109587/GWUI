@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "total": 3,
+  "data": [
+    {
+      "id": 0,
+      "state": "Y",
+      "interface": "eth0",
+      "conState": "Y",
+      "infRate": "10Gbps",
+      "flowState": "Y"
+    },
+    {
+      "id": 1,
+      "state": "N",
+      "interface": "eth1",
+      "conState": "Y",
+      "infRate": "10Gbps",
+      "flowState": "Y"
+    },
+    {
+      "id": 2,
+      "state": "Y",
+      "interface": "eth3",
+      "conState": "Y",
+      "infRate": "10Gbps",
+      "flowState": "Y"
+    }
+  ]
+}

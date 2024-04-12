@@ -1,0 +1,240 @@
+{
+	"success": true,
+	"data": {
+		"statistic": [{
+				"title": "全网资产",
+				"num": 789,
+				"text": "当前",
+				"typeOneText": "在线",
+				"typeOneNum": 469,
+				"typeTwoText": "离线",
+				"typeTwoNum": 320,
+        "type": "asset"
+			},
+			{
+				"title": "C类网段",
+				"num": 28,
+				"text": "当前",
+				"typeOneText": "类网段",
+				"typeOneNum": 0,
+				"typeTwoText": "类网段",
+				"typeTwoNum": 2,
+        "type": "net"
+			},
+			{
+				"title": "终端探针",
+				"num": 16,
+				"text": "当前",
+				"typeOneText": "在线",
+				"typeOneNum": 3,
+				"typeTwoText": "离线",
+				"typeTwoNum": 13,
+        "type": "agent"
+			},
+			{
+				"title": "违规项",
+				"num": 66,
+				"text": "本月",
+				"typeOneText": "今日新增",
+				"typeOneNum": 3,
+				"typeTwoText": "本周新增",
+				"typeTwoNum": 3,
+        "type": "violate"
+			},
+			{
+				"title": "风险项",
+				"num": 5,
+				"text": "本月",
+				"typeOneText": "今日新增",
+				"typeOneNum": 0,
+				"typeTwoText": "本周新增",
+				"typeTwoNum": 3,
+        "type": "risk"
+			}
+		],
+		"asset": {
+			"title": "资产统计",
+			"pieData": [{
+					"type": "用户",
+					"value": 26221
+				},
+				{
+					"type": "其他",
+					"value": 38875
+				},
+				{
+					"type": "网络",
+					"value": 28947
+				},
+				{
+					"type": "虚拟化服务器",
+					"value": 35133
+				},
+				{
+					"type": "服务",
+					"value": 24033
+				}
+			],
+			"list": [{
+					"id": "1",
+					"type": "PC计算机",
+					"num": "27",
+					"count": "100"
+				},
+				{
+					"id": "2",
+					"type": "虚拟机",
+					"num": "27",
+					"count": "14"
+				},
+				{
+					"id": "6",
+					"type": "交换机",
+					"num": "27",
+					"count": "11"
+				},
+				{
+					"id": "28",
+					"type": "网络准入",
+					"num": "27",
+					"count": "14"
+				},
+				{
+					"id": "33",
+					"type": "安全设备",
+					"num": "27",
+					"count": "11"
+				},
+				{
+					"id": "34",
+					"type": "网络设备",
+					"num": "27",
+					"count": "4"
+				},
+				{
+					"id": "35",
+					"type": "虚拟化服务器",
+					"num": "27",
+					"count": "27"
+				}
+			],
+			"total": "4000",
+			"data": [{
+					"Date": "01-01 06:00",
+					"scales": 1648
+				},
+				{
+					"Date": "01-01 06:15",
+					"scales": 1648
+				},
+				{
+					"Date": "01-01 06:30",
+					"scales": 1648
+				},
+				{
+					"Date": "01-01 06:45",
+					"scales": 1648
+				}
+			]
+		},
+		"netsegment": {
+			"title": "网段统计",
+			"chartsTitle": "C网段使用率",
+			"all": 6,
+			"deployed": 1,
+			"undeployed": 5,
+			"data": [{
+					"name": "高于80%",
+					"value": 0
+				},
+				{
+					"name": "达到50%",
+					"value": 12
+				},
+				{
+					"name": "低于20%",
+					"value": 24
+				}
+			]
+		},
+		"violation": {
+			"title": "违规统计",
+			"illout": {
+				"title": "违规外联",
+				"num": 14,
+				"count": 134
+			},
+			"series": {
+				"title": "网络串线",
+				"num": 14,
+				"count": 134
+			},
+			"illinn": {
+				"title": "违规内联",
+				"num": 14,
+				"multiCard": 64,
+				"netIn": 0
+			},
+			"illsvr": {
+				"title": "违规服务",
+				"num": 14,
+				"anonser": 19,
+				"proxyser": 5,
+				"remoteser": 159,
+				"locationser": 19
+			}
+		},
+		"risk": {
+			"title": "违规统计",
+			"sysfalw": [{
+					"name": "严重",
+					"value": 20
+				},
+				{
+					"name": "高危",
+					"value": 16
+				},
+				{
+					"name": "中危",
+					"value": 23
+				},
+				{
+					"name": "低危",
+					"value": 17
+				}
+			],
+			"weakpwd": [{
+					"rank": 1,
+					"type": "SSL",
+					"num": 4
+				},
+				{
+					"rank": 2,
+					"type": "SMB",
+					"num": 4
+				},
+				{
+					"rank": 3,
+					"type": "VNC",
+					"num": 2
+				}
+			],
+			"port": [{
+					"rank": 1,
+					"type": "113",
+					"num": 4
+				},
+				{
+					"rank": 2,
+					"type": "80",
+					"num": 4
+				},
+				{
+					"rank": 3,
+					"type": "20",
+					"num": 2
+				}
+			]
+		}
+	}
+}

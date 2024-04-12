@@ -1,0 +1,141 @@
+{
+  "success": true,
+  "report": true,
+  "shortcutMenu": [
+    {
+      "name": "级联设备",
+      "route": "/cfgmngt/cascdevc",
+      "color": "#1DA652",
+      "size": 2,
+      "direction": "vertical"
+    },
+    {
+      "name": "资产信息",
+      "route": "/central/assets",
+      "color": "#298FCC",
+      "size": 1,
+      "direction": "transverse"
+    },
+    {
+      "name": "资产管控",
+      "route": "/central/assctl",
+      "color": "#DE3C00",
+      "size": 2,
+      "direction": "transverse"
+    },
+    {
+      "name": "资源统计",
+      "route": "/central/ressta",
+      "color": "#DE3C00",
+      "size": 2,
+      "direction": "transverse"
+    }
+  ],
+  "menulist": [
+    {
+      "title": "集控分析",
+      "children": [
+        {
+          "title": "资产信息",
+          "route": "/central/assets"
+        },
+        {
+          "title": "资产管控",
+          "route": "/central/assctl"
+        },
+        {
+          "title": "资源统计",
+          "route":"/central/ressta"
+        }
+      ]
+    },
+    {
+      "title": "配置管理",
+      "children": [
+        {
+          "title": "级联设备",
+          "route": "/cfgmngt/cascdevc"
+        },
+        {
+          "title": "字段配置",
+          "route": "/cfgmngt/baseconf"
+        },
+        {
+          "title": "组织同步",
+          "route": "/cfgmngt/deptsync"
+        },
+        {
+          "title": "区域配置",
+          "route": "/cfgmngt/zoneconf"
+        },
+        {
+          "title": "用户列表",
+          "route": "/cfgmngt/userlist"
+        },
+        {
+          "title": "签章流程",
+          "route": "/cfgmngt/signature"
+        },
+        {
+          "title": "工单配置",
+          "route": "/cfgmngt/workconf"
+        },
+        {
+          "title": "外联摆渡",
+          "route": "/cfgmngt/outferry"
+        }
+      ]
+    },
+    {
+      "title": "资产管理",
+      "children": [
+        {
+          "title": "资产录入",
+          "route": "/assmngt/assinput"
+        },
+        {
+          "title": "临时申请",
+          "route": "/assmngt/tempyrcd"
+        },
+        {
+          "title": "申请录入",
+          "route": "/assmngt/applyrcd"
+        },
+        {
+          "title": "资产申请",
+          "route": "/assmngt/assapply"
+        },
+        {
+          "title": "资产审批",
+          "route": "/assmngt/assappro"
+        }
+      ]
+    },
+    {
+      "title": "资源管理",
+      "children": [
+        {
+          "title": "地址规划",
+          "route": "/resmngt/addrplan"
+        },
+        {
+          "title": "子网配置",
+          "route": "/resmngt/snetconf"
+        },
+        {
+          "title": "地址分配",
+          "route": "/resmngt/addrallc"
+        },
+        {
+          "title": "资源申请",
+          "route": "/resmngt/resapply"
+        },
+        {
+          "title": "资源审批",
+          "route": "/resmngt/resappro"
+        }
+      ]
+    }
+    
+  ]
+}

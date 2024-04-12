@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1677ff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_945" data-name="矩形 945" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="列表" transform="translate(-476 -27)">
+    <g id="平铺" transform="translate(476 27)">
+      <g id="组_1001" data-name="组 1001" class="cls-2">
+        <path id="路径_3431" data-name="路径 3431" class="cls-1" d="M6.009,0H1A1,1,0,0,0,0,1V6.012a1,1,0,0,0,1,1H6.009a1,1,0,0,0,1-1V1a1,1,0,0,0-1-1m0,6.012H1V1H6.009Z"/>
+        <path id="路径_3432" data-name="路径 3432" class="cls-1" d="M6.009,8.988H1a1,1,0,0,0-1,1V15a1,1,0,0,0,1,1H6.009a1,1,0,0,0,1-1V9.988a1,1,0,0,0-1-1m0,6.012H1V9.988H6.009Z"/>
+        <rect id="矩形_941" data-name="矩形 941" class="cls-1" width="7" height="1" transform="translate(9 1)"/>
+        <rect id="矩形_942" data-name="矩形 942" class="cls-1" width="7" height="1" transform="translate(9 5)"/>
+        <rect id="矩形_943" data-name="矩形 943" class="cls-1" width="7" height="1" transform="translate(9 10)"/>
+        <rect id="矩形_944" data-name="矩形 944" class="cls-1" width="7" height="1" transform="translate(9 14)"/>
+      </g>
+    </g>
+  </g>
+</svg>

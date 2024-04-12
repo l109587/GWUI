@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.1;
+      }
+
+      .cls-3 {
+        opacity: 0.5;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1042" data-name="矩形 1042" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="快捷入口图标-正常" transform="translate(-197 -322)">
+    <circle id="椭圆_13" data-name="椭圆 13" class="cls-2" cx="16" cy="16" r="16" transform="translate(197 322)"/>
+    <g id="组_1110" data-name="组 1110" class="cls-3" transform="translate(205 330)">
+      <g id="组_1093" data-name="组 1093" class="cls-4">
+        <path id="路径_3504" data-name="路径 3504" class="cls-1" d="M6,0H1A1,1,0,0,0,0,1V6A1,1,0,0,0,1,7H6A1,1,0,0,0,7,6V1A1,1,0,0,0,6,0M6,6H1V1H6Z"/>
+        <path id="路径_3505" data-name="路径 3505" class="cls-1" d="M15,0H10A1,1,0,0,0,9,1V6a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V1a1,1,0,0,0-1-1m0,6H10V1h5Z"/>
+        <path id="路径_3506" data-name="路径 3506" class="cls-1" d="M6,9H1a1,1,0,0,0-1,1v5a1,1,0,0,0,1,1H6a1,1,0,0,0,1-1V10A1,1,0,0,0,6,9m0,6H1V10H6Z"/>
+        <path id="路径_3507" data-name="路径 3507" class="cls-1" d="M15,9H10a1,1,0,0,0-1,1v5a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V10a1,1,0,0,0-1-1m0,6H10V10h5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

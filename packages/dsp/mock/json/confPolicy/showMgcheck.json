@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "data": [
+    {
+      "state": "N",
+      "rule_id": "1213394678494265372",
+      "from": "local",
+      "share": "Y",
+      "info": {
+        "filter_file_type": [1],
+        "min_match_count": 1,
+        "rule_content": "\u4f1a\u8bae",
+        "alarm_thresh": 100,
+        "filter_file_size": { "min_size": "1", "max_size": "100" },
+        "rule_id": "1213394678494265372"
+      },
+      "desc": "\u4f1a\u8bae",
+      "module": "keyword_detect",
+      "refcnt": "0",
+      "alarm_num": 0,
+      "alarm_thresh": "100"
+    },
+    {
+      "state": "Y",
+      "rule_id": "1213394678494265383",
+      "from": "local",
+      "share": "Y",
+      "info": {
+        "filter_file_type": [1],
+        "min_match_count": 1,
+        "rule_content": "\u4f1a\u8bae",
+        "alarm_thresh": 100,
+        "filter_file_size": { "min_size": "1", "max_size": "1000" },
+        "rule_id": "1213394678494265383"
+      },
+      "desc": "\u5173\u952e\u5b57\u68c0\u6d4b",
+      "module": "keyword_detect",
+      "refcnt": "1",
+      "alarm_num": 0,
+      "alarm_thresh": "100"
+    }
+  ],
+  "total": "2"
+}

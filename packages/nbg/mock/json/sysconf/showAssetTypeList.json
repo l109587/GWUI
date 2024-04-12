@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "total": 20,
+  "data": [
+    {
+      "id": 0,
+      "group": "用户设备",
+      "groupId": "11",
+      "name": "个人电脑",
+      "icon": "pc",
+      "speciesnum": "13",
+      "count": 13,
+      "property": 0
+    },
+    {
+      "id": 1,
+      "group": "网络设备",
+      "groupId": "12",
+      "name": "交换机",
+      "icon": "switch",
+      "speciesnum": "9",
+      "count": 10,
+      "property": 0
+    },
+    {
+      "id": 2,
+      "group": "服务器",
+      "groupId": "13",
+      "name": "存储服务器",
+      "icon": "nas",
+      "speciesnum": "7",
+      "count": 11,
+      "property": 0
+    },
+    {
+      "id": 3,
+      "group": "哑终端",
+      "groupId": "14",
+      "name": "摄像头",
+      "icon": "camera",
+      "speciesnum": "33",
+      "count": 12,
+      "property": 0
+    },
+    {
+      "id": 4,
+      "group": "移动设备",
+      "groupId": "14",
+      "name": "自建",
+      "icon": "custom",
+      "speciesnum": "33",
+      "count": 12,
+      "property": 1
+    }
+  ]
+}

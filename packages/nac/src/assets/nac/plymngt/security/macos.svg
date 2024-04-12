@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_407" data-name="矩形 407" class="cls-1" width="14" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="MacOS" transform="translate(0.679 0)">
+    <rect id="矩形_405" data-name="矩形 405" class="cls-1" width="16" height="16" transform="translate(-0.679 0)"/>
+    <g id="组_428" data-name="组 428" transform="translate(0.321 0)">
+      <g id="组_427" data-name="组 427" class="cls-2">
+        <path id="路径_624" data-name="路径 624" d="M11.635,8.473a3.573,3.573,0,0,1,1.876-3.1,4.2,4.2,0,0,0-3-1.639c-1.51,0-2.067.7-3.233.7s-1.8-.7-3.207-.7A4.47,4.47,0,0,0,0,8.463C0,12.526,2.9,16,4.506,16c.736,0,1.605-.678,2.828-.678,1.194,0,1.933.678,2.741.678.733,0,1.407-.369,2.474-1.742A9.384,9.384,0,0,0,14,11.7a3.712,3.712,0,0,1-2.365-3.23"/>
+        <path id="路径_625" data-name="路径 625" d="M10.2.331C10.2.219,10.19.109,10.18,0a3.6,3.6,0,0,0-3.4,3.561c0,.112.006.222.016.331A3.6,3.6,0,0,0,10.2.331"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,115 @@
+.scancoCard {
+  .ant-pro-card-header {
+    padding-left: 60px !important;
+    padding-top: 25px !important;
+    padding-bottom: 8px !important;
+
+    .ant-pro-card-title {
+      color: #242224;
+      font-size: 16px;
+      font-family: Helvetica;
+      font-weight: bold;
+    }
+  }
+
+  .scancoForm {
+    .scrollDiv {
+      &::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        // background-color: #ccc; // 滑块颜色 
+        background-color: rgba(157, 165, 183, 0.4);
+        border-radius: 5px; // 滑块圆角 
+        border-style: dashed;
+        border-color: transparent;
+        border-width: 1.5px;
+        background-clip: padding-box;
+      }
+
+      &::-webkit-scrollbar-thumb:hover {
+        background-color: rgba(157, 165, 183, 0.7);
+      }
+    }
+
+    .ant-form-item-label>label::after {
+      content: ":"
+    }
+
+    .secodaryTitle {
+      color: #101010;
+      font-size: 14px;
+      font-family: Helvetica-regular;
+      font-weight: bold;
+      padding: 16px 0 4px 0;
+    }
+
+    .afterAntdFields {
+      .ant-form-item {
+        margin-bottom: 0 !important;
+      }
+    }
+
+    .viewTag {
+      width: 539px;
+      height: 30px;
+      line-height: 30px;
+      border-radius: 5px;
+      background-color: rgba(236, 243, 255, 1);
+      color: rgba(16, 16, 16, 1);
+      font-size: 14px;
+      text-align: left;
+      font-family: Roboto;
+      border: 1px solid rgba(145, 202, 255, 1);
+      padding-left: 11px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      span {
+        svg {
+          margin-bottom: 4px;
+        }
+      }
+
+      img {
+        margin-right: 5px;
+        width: 14px;
+        height: 14px;
+        cursor: pointer;
+      }
+    }
+
+    .mappDiv {
+      color: #C1C2C5;
+      font-size: 14px;
+      font-family: Helvetica;
+    }
+
+    .marginLeftDiv {
+      margin-left: 140px;
+      margin-top: -12px;
+
+      .ant-table.ant-table-small .ant-table-title,
+      .ant-table.ant-table-small .ant-table-footer,
+      .ant-table.ant-table-small .ant-table-thead > tr > th,
+      .ant-table.ant-table-small .ant-table-tbody > tr > td,
+      .ant-table.ant-table-small tfoot > tr > th,
+      .ant-table.ant-table-small tfoot > tr > td {
+        padding: 4.5px 8px !important;
+      }
+      
+      tr>td>.ant-btn-dashed {
+        margin-bottom: 0px !important;
+        margin-top: 3px !important;
+      }
+    }
+
+    .ant-form-item {
+      margin-bottom: 8px !important;
+    }
+
+  }
+}

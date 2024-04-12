@@ -1,0 +1,23 @@
+<svg id="主动打开浏览器未开启" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a1a1a1;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1227" data-name="矩形 1227" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_1243" data-name="组 1243" class="cls-2">
+    <path id="路径_3714" data-name="路径 3714" class="cls-1" d="M14,0H2A2,2,0,0,0,0,2V14a2,2,0,0,0,2,2H14a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2m1,14a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V5H15ZM15,4H1V2A1,1,0,0,1,2,1H14a1,1,0,0,1,1,1Z"/>
+    <rect id="矩形_1224" data-name="矩形 1224" class="cls-1" width="1" height="1" transform="translate(3 2)"/>
+    <rect id="矩形_1225" data-name="矩形 1225" class="cls-1" width="1" height="1" transform="translate(5 2)"/>
+    <rect id="矩形_1226" data-name="矩形 1226" class="cls-1" width="1" height="1" transform="translate(7 2)"/>
+    <path id="路径_3715" data-name="路径 3715" class="cls-1" d="M8,14a4.013,4.013,0,0,0,3.464-2l-.865-.5a3.011,3.011,0,1,1,.35-2H7v1h5v-1h-.051A3.991,3.991,0,1,0,8,14"/>
+  </g>
+</svg>

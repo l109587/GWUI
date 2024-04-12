@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_846" data-name="矩形 846" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="违规外联" transform="translate(0 0)">
+    <g id="组_883" data-name="组 883" class="cls-2" transform="translate(0 0)">
+      <path id="路径_3259" data-name="路径 3259" class="cls-1" d="M17.5,0H2.5A2.5,2.5,0,0,0,0,2.5v15a2.5,2.5,0,0,0,2.5,2.5H6.25V18.741H2.5a1.25,1.25,0,0,1-1.25-1.249V2.5A1.251,1.251,0,0,1,2.5,1.249h15A1.251,1.251,0,0,1,18.75,2.5V15H20V2.5A2.5,2.5,0,0,0,17.5,0" transform="translate(0 0.001)"/>
+      <rect id="矩形_845" data-name="矩形 845" class="cls-1" width="7.498" height="1.253" transform="translate(6.873 12.179) rotate(-45)"/>
+      <path id="路径_3260" data-name="路径 3260" class="cls-1" d="M12.8,9.5h1.767l.034-.034A4.373,4.373,0,0,0,8.415,3.29L6.206,5.5l.884.883L9.3,4.172a3.124,3.124,0,0,1,4.42,4.416Z" transform="translate(1.551 0.501)"/>
+      <path id="路径_3261" data-name="路径 3261" class="cls-1" d="M14.309,8.937a1.018,1.018,0,0,0-1.726,0L9.5,13.859V12.806l-.916.917a3.124,3.124,0,0,1-4.42-4.416L6.374,7.1,5.49,6.218,3.28,8.425a4.364,4.364,0,0,0,5.355,6.817L7.6,16.892a1.016,1.016,0,0,0,.862,1.556l9.96,0a1.017,1.017,0,0,0,.864-1.556ZM8.884,17.2l4.561-7.286,4.561,7.29Z" transform="translate(0.5 1.547)"/>
+      <path id="路径_3262" data-name="路径 3262" class="cls-1" d="M10.521,11.636v1.249a.625.625,0,0,0,1.25,0V11.636a.625.625,0,0,0-1.25,0" transform="translate(2.63 2.74)"/>
+      <path id="路径_3263" data-name="路径 3263" class="cls-1" d="M11.146,14.012a.624.624,0,1,0,.625.624.625.625,0,0,0-.625-.624" transform="translate(2.63 3.486)"/>
+    </g>
+  </g>
+</svg>

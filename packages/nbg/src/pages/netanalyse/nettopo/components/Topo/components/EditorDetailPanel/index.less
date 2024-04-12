@@ -1,0 +1,25 @@
+@import '~antd/es/style/themes/default.less';
+
+.detailPanel {
+  flex: 1;
+  background-color: @component-background;
+}
+.detailItem{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card{
+ :global{
+  .ant-card-body{
+    padding: 24px !important;
+  }
+  .ant-card-head{
+    min-height: 36px;
+    padding: 0 24px 0 12px;
+    .ant-card-head-title{
+      padding: 8px 0;
+    }
+  }
+ }
+}

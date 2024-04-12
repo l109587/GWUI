@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1103" data-name="矩形 1103" class="cls-1" width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="资产录入" transform="translate(0 0)">
+    <g id="组_1158" data-name="组 1158" class="cls-2" transform="translate(0 0)">
+      <path id="路径_3584" data-name="路径 3584" class="cls-1" d="M7.676,12.049l0,0-.007.006,0,0-.713,2.559,2.392-.531,0-.007L21.43,2.164a.543.543,0,0,0,.034-.717L20.413.169A.434.434,0,0,0,19.76.131L7.678,12.051Z" transform="translate(4.349 0)"/>
+      <path id="路径_3585" data-name="路径 3585" class="cls-1" d="M25.188,6.688a.813.813,0,0,0-.812.813l.011,15.359s-.13.325-1.048.891H2.438a.814.814,0,0,1-.812-.812V3.438a.814.814,0,0,1,.813-.812H17.875a.813.813,0,0,0,0-1.625H2.438A2.44,2.44,0,0,0,0,3.438v19.5a2.44,2.44,0,0,0,2.438,2.438H23.782l.19-.111c1.365-.8,2.028-1.557,2.028-2.327V7.5a.813.813,0,0,0-.812-.812" transform="translate(0 0.624)"/>
+      <rect id="矩形_1100" data-name="矩形 1100" class="cls-1" width="6.5" height="1.625" transform="translate(3.25 9.75)"/>
+      <rect id="矩形_1101" data-name="矩形 1101" class="cls-1" width="4.875" height="1.625" transform="translate(3.25 14.625)"/>
+      <rect id="矩形_1102" data-name="矩形 1102" class="cls-1" width="19.5" height="1.625" transform="translate(3.25 19.5)"/>
+    </g>
+  </g>
+</svg>

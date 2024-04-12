@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "vioConfig": "lzl143",
+  "vioInfo": [
+    "vioOutline"
+  ],
+  "netRange": [
+    {
+      "id": 0,
+      "vlanID": 2,
+      "netAddr": "192.168.134.1",
+      "netMask": "24",
+      "deteAddrType": 1,
+      "deteAddr": "192.168.134.199"
+    }
+  ]
+}

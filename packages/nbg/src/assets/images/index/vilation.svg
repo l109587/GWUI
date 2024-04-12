@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1035" data-name="矩形 1035" class="cls-1" width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="违规项" transform="translate(0 0)">
+    <g id="组_1077" data-name="组 1077" class="cls-2" transform="translate(0 0)">
+      <path id="路径_3486" data-name="路径 3486" class="cls-1" d="M28,0H4A4,4,0,0,0,0,4V28a4,4,0,0,0,4,4H28a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4m2,28a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V4A2,2,0,0,1,4,2H28a2,2,0,0,1,2,2Z" transform="translate(0 0)"/>
+      <path id="路径_3487" data-name="路径 3487" class="cls-1" d="M15.7,3.967a2.035,2.035,0,0,0-3.45,0L2.291,19.877a2.035,2.035,0,0,0,1.724,3.112L23.925,23h0a2.032,2.032,0,0,0,1.724-3.11ZM3.989,20.936,13.951,5.012l.022,0L14,5.026,23.927,21Z" transform="translate(1.979 3.008)"/>
+      <rect id="矩形_1034" data-name="矩形 1034" class="cls-1" width="2.498" height="4.996" rx="0.5" transform="translate(14.364 13.511)"/>
+      <path id="路径_3488" data-name="路径 3488" class="cls-1" d="M8.68,10.507h-.5a1,1,0,0,0-1,1V12a1,1,0,0,0,1,1h.5a1,1,0,0,0,1-1v-.5a1,1,0,0,0-1-1" transform="translate(7.182 10.496)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="趋势" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1677ff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1196" data-name="矩形 1196" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_1199" data-name="组 1199" class="cls-2">
+    <path id="路径_3669" data-name="路径 3669" class="cls-1" d="M15.5,15H1V.5a.5.5,0,0,0-1,0v15a.5.5,0,0,0,.5.5h15a.5.5,0,0,0,0-1"/>
+    <path id="路径_3670" data-name="路径 3670" class="cls-1" d="M2.407,11.29l2.1-2.944L7.1,11.8a.5.5,0,0,0,.4.2h.006a.5.5,0,0,0,.4-.209l4.557-6.379,2.608,4.346a.5.5,0,1,0,.857-.515l-3-5A.5.5,0,0,0,12.52,4a.487.487,0,0,0-.426.209l-4.6,6.444L4.9,7.2A.516.516,0,0,0,4.494,7a.5.5,0,0,0-.4.21l-2.5,3.5a.5.5,0,1,0,.813.581"/>
+  </g>
+</svg>

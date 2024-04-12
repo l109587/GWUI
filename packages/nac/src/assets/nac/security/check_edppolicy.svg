@@ -1,0 +1,23 @@
+<svg id="桌管策略" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1277" data-name="矩形 1277" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="组_1352" data-name="组 1352" class="cls-2" transform="translate(0 0)">
+    <path id="路径_3795" data-name="路径 3795" class="cls-1" d="M17.5,0H2.5A2.5,2.5,0,0,0,0,2.5v11.23a2.507,2.507,0,0,0,2.5,2.5H9.413v2.5H4.375a.625.625,0,1,0,0,1.249H9.413V20h1.25v-.025h4.963a.625.625,0,1,0,0-1.249H10.662v-2.5H17.5a2.5,2.5,0,0,0,2.5-2.5V2.5A2.507,2.507,0,0,0,17.5,0m1.25,13.716a1.253,1.253,0,0,1-1.25,1.249H2.5a1.253,1.253,0,0,1-1.25-1.249V2.486A1.253,1.253,0,0,1,2.5,1.237h15a1.253,1.253,0,0,1,1.25,1.249Z" transform="translate(0 0)"/>
+    <path id="路径_3796" data-name="路径 3796" class="cls-1" d="M2.979,11.734h6.25V2.989H2.979Zm1.25-7.5h3.75v6.246H4.229Z" transform="translate(0.745 0.745)"/>
+    <rect id="矩形_1274" data-name="矩形 1274" class="cls-1" width="3.75" height="1.249" transform="translate(12.474 3.734)"/>
+    <rect id="矩形_1275" data-name="矩形 1275" class="cls-1" width="3.75" height="1.249" transform="translate(12.474 7.482)"/>
+    <rect id="矩形_1276" data-name="矩形 1276" class="cls-1" width="3.75" height="1.249" transform="translate(12.474 11.229)"/>
+  </g>
+</svg>

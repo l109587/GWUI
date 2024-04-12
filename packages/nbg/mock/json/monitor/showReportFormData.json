@@ -1,0 +1,425 @@
+{
+  "success": true,
+  "name": "北信源'网络边界检测系统'安全评估报告",
+  "data": [
+    {
+      "title": "综述信息",
+      "key": "mainInfo",
+      "desc":[],
+      "children": [
+        {
+          "title": "监测信息",
+          "key": "taskInfo",
+          "desc": [
+            "监测发现 71 个资产，3 个漏洞，16 个弱口令，23 个端口开放，17 个违规外联，5 个违规内联，19 个违规服务。"
+          ],
+          "content": [
+            {
+              "type": "panel",
+              "data": [
+                {
+                  "name": "资产",
+                  "value": 71
+                },
+                {
+                  "name": "漏洞",
+                  "value": 3
+                },
+                {
+                  "name": "弱口令",
+                  "value": 16
+                },
+                {
+                  "name": "端口开放",
+                  "value": 23
+                },
+                {
+                  "name": "违规外联",
+                  "value": 17
+                },
+                {
+                  "name": "违规内联",
+                  "value": 5
+                }
+              ]
+            }
+          ],
+          "children": [
+            {
+              "title": "三级标题",
+              "key": "thirdInfo",
+              "desc": [
+                "违规外联是指内网计算机连接互联网，可能造成数据泄露被入侵的严重安全事件。违规外联是指内网计算机连接互联网，可能造成数据泄露被入侵的严重安全事件。违规外联是指内网计算机连接互联网，可能造成数据泄露被入侵的严重安全事件。违规外联是指内网计算机连接互联网，可能造成数据泄露被入侵的严重安全事件。",
+                "违规外联是指内网计算机连接互联网，可能造成数据泄露被入侵的严重安全事件。违规外联是指内网计算机连接互联网，可能造成数据泄露被入侵的严重安全事件。"
+              ],
+              "content": [
+                {
+                  "type": "bar",
+                  "data": [
+                    {
+                      "name": "PC计算机",
+                      "value": 27
+                    },
+                    {
+                      "name": "交换机",
+                      "value": 25
+                    },
+                    {
+                      "name": "虚拟机",
+                      "value": 3
+                    },
+                    {
+                      "name": "路由器",
+                      "value": 35
+                    },
+                    {
+                      "name": "设备",
+                      "value": 12
+                    },
+                    {
+                      "name": "打印机",
+                      "value": 33
+                    },
+                    {
+                      "name": "笔记本电脑",
+                      "value": 34
+                    },
+                    {
+                      "name": "无线路由",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由7",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由6",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由5",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由4",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由3",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由37",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由3786",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由3523",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由355",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由3",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由344",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由3111",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由311",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由3123",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由31231",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由3121",
+                      "value": 152
+                    },
+                    {
+                      "name": "无线路由3232",
+                      "value": 152
+                    }
+                  ]
+                },
+                {
+                  "type": "table",
+                  "data": {
+                    "dataSource": [
+                      {
+                        "index": "1",
+                        "name": "检测到目标URL存在http host头攻击漏洞",
+                        "pageNum": 2,
+                        "appearNum": 1
+                      },
+                      {
+                        "index": "2",
+                        "name": "检测到会话cookie中缺少HttpOnly属性",
+                        "pageNum": 32,
+                        "appearNum": 2
+                      },
+                      {
+                        "index": "3",
+                        "name": "检测到会话cookie中缺少Secure属性",
+                        "pageNum": 32,
+                        "appearNum": 2
+                      },
+                      {
+                        "index": "4",
+                        "name": "检测到目标URL存在内部IP地址泄露",
+                        "pageNum": 32,
+                        "appearNum": 2
+                      }
+                    ],
+                    "columns": [
+                      {
+                        "title": "序号",
+                        "dataIndex": "index",
+                        "key": "index"
+                      },
+                      {
+                        "title": "漏洞名称",
+                        "dataIndex": "name",
+                        "key": "name"
+                      },
+                      {
+                        "title": "影响页面个数",
+                        "dataIndex": "pageNum",
+                        "key": "pageNum"
+                      },
+                      {
+                        "title": "出现次数",
+                        "dataIndex": "appearNum",
+                        "key": "appearNum"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "资产信息",
+          "key": "riskdInfo",
+          "content": [
+            {
+              "type": "pie",
+              "data": [
+                {
+                  "name": "高风险",
+                  "value": 27
+                },
+                {
+                  "name": "中风险",
+                  "value": 25
+                },
+                {
+                  "name": "低风险",
+                  "value": 18
+                },
+                {
+                  "name": "无风险",
+                  "value": 152
+                }
+              ]
+            }
+          ],
+          "children": [
+            {
+              "title": "页面风险界别分布",
+              "key": "pageriskInfo",
+              "content": [
+                {
+                  "type": "pie",
+                  "data": [
+                    {
+                      "name": "高风险",
+                      "value": 27
+                    },
+                    {
+                      "name": "中风险",
+                      "value": 25
+                    },
+                    {
+                      "name": "低风险",
+                      "value": 18
+                    },
+                    {
+                      "name": "无风险",
+                      "value": 152
+                    }
+                  ]
+                },
+                {
+                  "type": "table",
+                  "data": {
+                    "dataSource": [
+                      {
+                        "index": "1",
+                        "name": "检测到目标URL存在http host头攻击漏洞",
+                        "pageNum": 2,
+                        "appearNum": 1
+                      },
+                      {
+                        "index": "2",
+                        "name": "检测到会话cookie中缺少HttpOnly属性",
+                        "pageNum": 32,
+                        "appearNum": 2
+                      },
+                      {
+                        "index": "3",
+                        "name": "检测到会话cookie中缺少Secure属性",
+                        "pageNum": 32,
+                        "appearNum": 2
+                      },
+                      {
+                        "index": "4",
+                        "name": "检测到目标URL存在内部IP地址泄露",
+                        "pageNum": 32,
+                        "appearNum": 2
+                      }
+                    ],
+                    "columns": [
+                      {
+                        "title": "序号",
+                        "dataIndex": "index",
+                        "key": "index"
+                      },
+                      {
+                        "title": "漏洞名称",
+                        "dataIndex": "name",
+                        "key": "name"
+                      },
+                      {
+                        "title": "影响页面个数",
+                        "dataIndex": "pageNum",
+                        "key": "pageNum"
+                      },
+                      {
+                        "title": "出现次数",
+                        "dataIndex": "appearNum",
+                        "key": "appearNum"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "资产信息",
+      "key": "loopListInfo",
+      "content": [],
+      "children": [
+        {
+          "title": "资产统计",
+          "key": "loopd",
+          "content": [
+            {
+              "type": "column",
+              "data": [
+                {
+                  "type": "严重",
+                  "value": 38
+                },
+                {
+                  "type": "高危",
+                  "value": 52
+                },
+                {
+                  "type": "中危",
+                  "value": 61
+                },
+                {
+                  "type": "低危",
+                  "value": 145
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "data": {
+                "dataSource": [
+                  {
+                    "index": "1",
+                    "name": "检测到目标URL存在http host头攻击漏洞",
+                    "pageNum": 2,
+                    "appearNum": 1
+                  },
+                  {
+                    "index": "2",
+                    "name": "检测到会话cookie中缺少HttpOnly属性",
+                    "pageNum": 32,
+                    "appearNum": 2
+                  },
+                  {
+                    "index": "3",
+                    "name": "检测到会话cookie中缺少Secure属性",
+                    "pageNum": 32,
+                    "appearNum": 2
+                  },
+                  {
+                    "index": "4",
+                    "name": "检测到目标URL存在内部IP地址泄露",
+                    "pageNum": 32,
+                    "appearNum": 2
+                  }
+                ],
+                "columns": [
+                  {
+                    "title": "序号",
+                    "dataIndex": "index",
+                    "key": "index"
+                  },
+                  {
+                    "title": "漏洞名称",
+                    "dataIndex": "name",
+                    "key": "name"
+                  },
+                  {
+                    "title": "影响页面个数",
+                    "dataIndex": "pageNum",
+                    "key": "pageNum"
+                  },
+                  {
+                    "title": "出现次数",
+                    "dataIndex": "appearNum",
+                    "key": "appearNum"
+                  }
+                ]
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "安全建议",
+      "key": "ansug",
+      "content": [],
+      "children": []
+    }
+  ]
+}

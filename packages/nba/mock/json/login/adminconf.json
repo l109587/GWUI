@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "login_control": {
+        "limited": 1,
+        "timeout": 3000,
+        "locktime": 10,
+        "trytimes": 5,
+        "captcha_onlynum": 1
+    },
+    "admin_pwdctrl": {
+        "firstmod": 1,
+        "strength": 1,
+        "length_check": 1,
+        "length_value": 8,
+        "change_period": 30,
+        "complex_check": 1
+    }
+}

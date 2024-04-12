@@ -1,0 +1,134 @@
+<svg id="核心设备" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.988" height="50" viewBox="0 0 50.988 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-13 {
+        fill: #fff;
+      }
+
+      .cls-14 {
+        fill: #e5f1ff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="路径_1" data-name="路径 1" class="cls-1" d="M0,14.58V25.171L25.4,40V29.411L0,14.576Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="1.393" x2="0.039" y2="1.393" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4da0ff"/>
+      <stop offset="0.466" stop-color="#125fb2"/>
+      <stop offset="0.475" stop-color="#1260b5"/>
+      <stop offset="0.538" stop-color="#176dc8"/>
+      <stop offset="0.603" stop-color="#1a74d4"/>
+      <stop offset="0.67" stop-color="#1c77d8"/>
+      <stop offset="0.994" stop-color="#0054b0"/>
+      <stop offset="1" stop-color="#0054b0"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="路径_2" data-name="路径 2" class="cls-1" d="M25.4,29.411V40L50.8,25.171V14.579ZM50.8,14.579l.005,0-.005,0Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-1" y1="1.393" x2="-0.96" y2="1.393" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-3">
+      <path id="路径_3" data-name="路径 3" class="cls-1" d="M0,24.579V35.171L25.4,50V39.411L0,24.576Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0" y1="1" x2="0.039" y2="1" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-4">
+      <path id="路径_4" data-name="路径 4" class="cls-1" d="M25.4,39.411V50L50.8,35.171V24.579ZM50.8,24.579l.005,0H50.8Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="-1" y1="1" x2="-0.96" y2="1" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-5">
+      <path id="路径_5" data-name="路径 5" class="cls-1" d="M25.443,0,.191,14.576,25.4,29.367,50.988,14.58Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="-0.004" y1="1.703" x2="0.016" y2="1.703" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ad3fd"/>
+      <stop offset="0.465" stop-color="#4ab9f9"/>
+      <stop offset="0.994" stop-color="#189ff6"/>
+      <stop offset="1" stop-color="#189ff6"/>
+    </linearGradient>
+    <clipPath id="clip-path-6">
+      <rect id="矩形_23" data-name="矩形 23" class="cls-1" width="50.988" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="组_4" data-name="组 4">
+    <g id="组_3" data-name="组 3" class="cls-2">
+      <rect id="矩形_18" data-name="矩形 18" class="cls-3" width="25.4" height="25.424" transform="translate(0 14.576)"/>
+    </g>
+  </g>
+  <g id="组_6" data-name="组 6">
+    <g id="组_5" data-name="组 5" class="cls-4">
+      <rect id="矩形_19" data-name="矩形 19" class="cls-5" width="25.405" height="25.426" transform="translate(25.4 14.574)"/>
+    </g>
+  </g>
+  <g id="组_8" data-name="组 8">
+    <g id="组_7" data-name="组 7" class="cls-6">
+      <rect id="矩形_20" data-name="矩形 20" class="cls-7" width="25.4" height="25.424" transform="translate(0 24.576)"/>
+    </g>
+  </g>
+  <g id="组_10" data-name="组 10">
+    <g id="组_9" data-name="组 9" class="cls-8">
+      <rect id="矩形_21" data-name="矩形 21" class="cls-9" width="25.405" height="25.425" transform="translate(25.4 24.575)"/>
+    </g>
+  </g>
+  <g id="组_12" data-name="组 12">
+    <g id="组_11" data-name="组 11" class="cls-10">
+      <rect id="矩形_22" data-name="矩形 22" class="cls-11" width="50.797" height="29.367" transform="translate(0.191 0)"/>
+    </g>
+  </g>
+  <g id="组_14" data-name="组 14">
+    <g id="组_13" data-name="组 13" class="cls-12">
+      <path id="路径_6" data-name="路径 6" class="cls-13" d="M35.9,19.979l-1.079-2.307a.359.359,0,0,0-.154-.159.939.939,0,0,0-.854,0,.943.943,0,0,1-.853,0l-3.19-1.844c-.173-.1-.219-.248-.135-.381a1.64,1.64,0,0,0,0-1.931c-.089-.127-.032-.277.131-.371l3.142-1.829a.939.939,0,0,1,.854,0c.328.191.892.1,1.008-.16l1.052-2.3c.059-.131,0-.253-.159-.338a.942.942,0,0,0-.583-.089l-3.958.642c-.469.07-.6.4-.268.587a.263.263,0,0,1,.163.334.269.269,0,0,1-.163.163L27.736,11.81a.936.936,0,0,1-.647.073,7.718,7.718,0,0,0-3.4,0,.938.938,0,0,1-.654-.075L19.9,9.994a.264.264,0,0,1-.163-.335A.26.26,0,0,1,19.9,9.5c.248-.145.22-.367,0-.5a.8.8,0,0,0-.273-.089l-3.981-.618c-.469-.07-.859.169-.737.427l1.079,2.307a.374.374,0,0,0,.155.155.943.943,0,0,0,.859,0,.934.934,0,0,1,.852,0l3.166,1.829c.169.1.22.244.135.37a1.64,1.64,0,0,0,.034,1.937c.089.131.038.277-.131.375l-3.171,1.843a.939.939,0,0,1-.854,0c-.328-.191-.89-.1-1.008.159l-1.06,2.29c-.06.131,0,.253.16.336a.928.928,0,0,0,.581.09l4-.619c.469-.07.6-.393.268-.586a.263.263,0,0,1,0-.5l3.188-1.876a.94.94,0,0,1,.644-.079,7.727,7.727,0,0,0,3.282,0,.935.935,0,0,1,.647.079l3.208,1.876a.262.262,0,0,1,.154.338.266.266,0,0,1-.154.154c-.249.145-.22.367,0,.5a.793.793,0,0,0,.272.09l3.968.623c.446.071.854-.169.733-.431ZM25.4,15.435c-.938,0-1.735-.47-1.735-1.093s.779-1.093,1.737-1.093,1.733.468,1.733,1.093-.773,1.093-1.735,1.093"/>
+      <path id="路径_7" data-name="路径 7" class="cls-14" d="M20.878,33.71l-.464-.336a1.276,1.276,0,0,1-.513-1.038A1.15,1.15,0,0,1,21.69,31.3l.464.336a1.278,1.278,0,0,1,.513,1.039,1.15,1.15,0,0,1-1.789,1.038"/>
+      <path id="路径_8" data-name="路径 8" class="cls-14" d="M5.517,24.92l-2.7-1.8v-2.7l2.7,1.8Z"/>
+      <path id="路径_9" data-name="路径 9" class="cls-14" d="M9.517,27.92l-2.7-1.8v-2.7l2.7,1.8Z"/>
+      <path id="路径_10" data-name="路径 10" class="cls-14" d="M20.878,43.71l-.464-.336a1.276,1.276,0,0,1-.513-1.038A1.15,1.15,0,0,1,21.69,41.3l.464.336a1.278,1.278,0,0,1,.513,1.039,1.15,1.15,0,0,1-1.789,1.038"/>
+      <path id="路径_11" data-name="路径 11" class="cls-14" d="M5.517,34.92l-2.7-1.8v-2.7l2.7,1.8Z"/>
+      <path id="路径_12" data-name="路径 12" class="cls-14" d="M9.517,37.92l-2.7-1.8v-2.7l2.7,1.8Z"/>
+    </g>
+  </g>
+</svg>

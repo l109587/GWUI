@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "total": 1,
+  "data": [
+    {
+      "id": "1",
+      "name": "name",
+      "type": "x",
+      "orgID": 1,
+      "org": "海淀",
+      "position": "工程师",
+      "phone": "13412347895",
+      "note": "备注"
+    }
+  ]
+}

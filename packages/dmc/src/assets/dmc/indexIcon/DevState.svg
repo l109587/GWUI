@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="设备状态" class="cls-1" d="M-631-839h-13v-1h2v-7h1v7h4v-15h1v15h4v-9h1v9h3v1Z" transform="translate(644 855)"/>
+</svg>

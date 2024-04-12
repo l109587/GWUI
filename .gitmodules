@@ -1,0 +1,4 @@
+[submodule "framework"]
+	path = framework
+	url = http://ci-submodule-token:_bCoNQHMyBf5NPWnpzN3@192.168.21.217/web/framework.git
+	branch = develop

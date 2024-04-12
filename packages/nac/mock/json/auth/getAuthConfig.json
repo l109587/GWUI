@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": {
+    "authLogout": {
+      "timeout": "Y",
+      "momentSW": "Y",
+      "momentVal": "6",
+      "periodSW": "Y",
+      "periodVal": "2"
+    },
+    "authKeep": {
+      "keepSW": "Y",
+      "keepUint": "day",
+      "keepVal": "0",
+      "priority": "Y",
+      "keepCancelSW": "Y",
+      "keepCancelVal": "0",
+      "keepCancelUnit": "day"
+    },
+    "authLimit": { "lockSW": "Y", "tryNUM": 5, "lockTime": 10 },
+    "authAccount": { "accIgCase": "Y", "accDisable": "Y", "accLogout": 5 }
+  }
+}

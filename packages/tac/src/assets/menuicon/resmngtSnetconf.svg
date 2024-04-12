@@ -1,0 +1,23 @@
+<svg id="子网配置" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1193" data-name="矩形 1193" class="cls-1" width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <path id="路径_3661" data-name="路径 3661" class="cls-1" d="M11.388,21.125H14.63v3.25H11.388ZM9.767,26H16.25V19.5H9.767Z"/>
+  <g id="组_1195" data-name="组 1195">
+    <g id="组_1194" data-name="组 1194" class="cls-2">
+      <path id="路径_3662" data-name="路径 3662" class="cls-1" d="M23.569,19.5V14.58H21.948v.045h-8.1v-3.25h9.9a2.2,2.2,0,0,0,2.193-2.2V2.2A2.2,2.2,0,0,0,23.739,0H2.194A2.2,2.2,0,0,0,0,2.2V9.175a2.2,2.2,0,0,0,2.194,2.2H12.223v3.25h-8.1V14.58H2.5V19.5H.034V26H6.517V19.5h-2.4V16.25h8.1v3.2h1.621v-3.2h8.1V19.5H19.517V26H26V19.5ZM4.9,24.375H1.654v-3.25H4.9ZM2.194,9.75a.575.575,0,0,1-.573-.575V2.2a.574.574,0,0,1,.573-.574H23.739a.574.574,0,0,1,.573.574V9.175a.575.575,0,0,1-.573.575ZM24.379,24.375H21.137v-3.25h3.242Z"/>
+      <rect id="矩形_1192" data-name="矩形 1192" class="cls-1" width="3.242" height="3.25" transform="translate(3.309 3.205)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="终端自检-已配置" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1677ff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1067" data-name="矩形 1067" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_1138" data-name="组 1138" class="cls-2">
+    <path id="路径_3542" data-name="路径 3542" class="cls-1" d="M14,0H2A2,2,0,0,0,0,2v9a2,2,0,0,0,2,2H14a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2m1,11a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1H14a1,1,0,0,1,1,1Z"/>
+    <path id="路径_3543" data-name="路径 3543" class="cls-1" d="M12.5,15h-9a.5.5,0,0,0,0,1h9a.5.5,0,0,0,0-1"/>
+    <path id="路径_3544" data-name="路径 3544" class="cls-1" d="M7.333,2a3.833,3.833,0,1,0,3.833,3.834A3.838,3.838,0,0,0,7.333,2m0,6.667a2.833,2.833,0,1,1,2.833-2.833A2.836,2.836,0,0,1,7.333,8.667"/>
+    <path id="路径_3545" data-name="路径 3545" class="cls-1" d="M11.02,8.813a.5.5,0,1,0-.707.708l1.333,1.332a.5.5,0,0,0,.707-.706Z"/>
+  </g>
+</svg>

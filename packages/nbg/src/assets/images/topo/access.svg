@@ -1,0 +1,97 @@
+<svg id="接入设备" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.084" height="40" viewBox="0 0 51.084 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: #e5f1ff;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-10 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="路径_65" data-name="路径 65" class="cls-1" d="M0,14.463V25.1L25.542,40V29.36L0,14.458Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="1" x2="0.039" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4da0ff"/>
+      <stop offset="0.67" stop-color="#1c77d8"/>
+      <stop offset="0.994" stop-color="#0054b0"/>
+      <stop offset="1" stop-color="#0054b0"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="矩形_35" data-name="矩形 35" class="cls-1" width="51.084" height="40"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="路径_69" data-name="路径 69" class="cls-1" d="M25.542,29.36V40L51.079,25.1V14.461Zm25.537-14.9v0l0,0Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-1" y1="1" x2="-0.961" y2="1" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-4">
+      <path id="路径_70" data-name="路径 70" class="cls-1" d="M25.636,0,.482,14.59,25.592,29.4,51.083,14.6Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-0.01" y1="1.361" x2="0.01" y2="1.361" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ad3fd"/>
+      <stop offset="0.465" stop-color="#4ab9f9"/>
+      <stop offset="0.994" stop-color="#189ff6"/>
+      <stop offset="1" stop-color="#189ff6"/>
+    </linearGradient>
+  </defs>
+  <g id="组_43" data-name="组 43">
+    <g id="组_42" data-name="组 42" class="cls-2">
+      <rect id="矩形_34" data-name="矩形 34" class="cls-3" width="25.542" height="25.542" transform="translate(0 14.458)"/>
+    </g>
+  </g>
+  <g id="组_45" data-name="组 45">
+    <g id="组_44" data-name="组 44" class="cls-4">
+      <path id="路径_66" data-name="路径 66" class="cls-5" d="M20.567,33.591l-.464-.336a1.276,1.276,0,0,1-.513-1.038,1.15,1.15,0,0,1,1.789-1.039l.464.336a1.278,1.278,0,0,1,.513,1.039,1.15,1.15,0,0,1-1.789,1.038"/>
+      <path id="路径_67" data-name="路径 67" class="cls-5" d="M5.206,24.8,2.506,23V20.3l2.7,1.8Z"/>
+      <path id="路径_68" data-name="路径 68" class="cls-5" d="M9.206,27.8,6.506,26V23.3l2.7,1.8Z"/>
+    </g>
+  </g>
+  <g id="组_47" data-name="组 47">
+    <g id="组_46" data-name="组 46" class="cls-6">
+      <rect id="矩形_36" data-name="矩形 36" class="cls-7" width="25.541" height="25.542" transform="translate(25.542 14.458)"/>
+    </g>
+  </g>
+  <g id="组_49" data-name="组 49">
+    <g id="组_48" data-name="组 48" class="cls-8">
+      <rect id="矩形_37" data-name="矩形 37" class="cls-9" width="50.601" height="29.397" transform="translate(0.482)"/>
+    </g>
+  </g>
+  <g id="组_51" data-name="组 51">
+    <g id="组_50" data-name="组 50" class="cls-4">
+      <path id="路径_71" data-name="路径 71" class="cls-10" d="M35.974,15.83a.36.36,0,0,1,.492.135.274.274,0,0,1,.021.042l.579,1.4.5,1.238a.351.351,0,0,1-.061.338.359.359,0,0,1-.319.129l-2.542-.335L32.542,18.5a.354.354,0,0,1-.338-.623.36.36,0,0,1,.206-.041.355.355,0,0,0,.134-.483.347.347,0,0,0-.133-.133l-5.8-3.281a.354.354,0,0,1-.133-.483.34.34,0,0,1,.133-.133l1.216-.7a.367.367,0,0,1,.363,0L34.7,16.361a.356.356,0,0,0,.362,0Zm-8.641,4.98a.36.36,0,0,1,.492.135.317.317,0,0,1,.021.041l.574,1.4.5,1.237a.352.352,0,0,1-.061.339.357.357,0,0,1-.319.127L26,23.762l-2.1-.224a.354.354,0,1,1-.133-.664.354.354,0,0,0,0-.616l-5.8-3.336a.354.354,0,0,1-.133-.483.34.34,0,0,1,.133-.133l1.215-.7a.369.369,0,0,1,.364,0l6.516,3.739a.365.365,0,0,0,.362,0l.91-.533Zm-8.66-9.287a.354.354,0,0,0,0,.616l5.8,3.32a.355.355,0,0,1,.136.483.36.36,0,0,1-.136.135l-1.214.7a.359.359,0,0,1-.364,0l-6.515-3.737a.36.36,0,0,0-.362,0l-.91.522a.362.362,0,0,1-.493-.135c-.007-.013-.014-.027-.02-.041l-.574-1.4-.505-1.237a.352.352,0,0,1,.061-.339.357.357,0,0,1,.319-.127l2.541.335,2.1.274a.353.353,0,1,1,.416.57.349.349,0,0,1-.278.061Zm8.641-4.981a.354.354,0,0,0,0,.616l5.8,3.321a.354.354,0,0,1,.135.482.35.35,0,0,1-.135.135l-1.215.7a.364.364,0,0,1-.364,0L25.018,8.06a.36.36,0,0,0-.362,0l-.905.527a.36.36,0,0,1-.492-.134.329.329,0,0,1-.021-.042l-.574-1.4-.5-1.239a.35.35,0,0,1,.061-.338.356.356,0,0,1,.319-.128l2.542.335,2.1.276a.353.353,0,1,1,.132.626"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg id="资产分类" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #666;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_841" data-name="矩形 841" class="cls-1" width="12" height="12"/>
+    </clipPath>
+  </defs>
+  <g id="组_876" data-name="组 876" class="cls-2">
+    <path id="路径_3248" data-name="路径 3248" class="cls-1" d="M.5,5H4.492a.5.5,0,0,0,.5-.5V.5a.5.5,0,0,0-.5-.5H.5A.5.5,0,0,0,0,.5v4A.5.5,0,0,0,.5,5M1,1h3V4H1Z"/>
+    <path id="路径_3249" data-name="路径 3249" class="cls-1" d="M11.5,0H7.508a.5.5,0,0,0-.5.5v4a.5.5,0,0,0,.5.5H11.5a.5.5,0,0,0,.5-.5V.5a.5.5,0,0,0-.5-.5M11,4H8.007V1H11Z"/>
+    <rect id="矩形_838" data-name="矩形 838" class="cls-1" width="11.979" height="1" transform="translate(0 7)"/>
+    <rect id="矩形_839" data-name="矩形 839" class="cls-1" width="11.979" height="1" transform="translate(0 9)"/>
+    <rect id="矩形_840" data-name="矩形 840" class="cls-1" width="11.979" height="1" transform="translate(0 11)"/>
+  </g>
+</svg>

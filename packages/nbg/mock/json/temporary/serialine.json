@@ -1,0 +1,24 @@
+{
+	"success": true,
+	"switch": "Y",
+	"interfaceName": "mgt",
+    "outlineCfgName": "全局配置",
+    "moniterScope":[
+            {
+                "id": 0,
+                "vlan": "1024",
+                "addr": "192.168.1.1",
+                "netmask": "24",
+                "deteAddrType": 0,
+                "deteAddr": "192.168.12.12"
+            },
+            {
+                "id": 1,
+                "vlan": "1024",	
+                "addr": "192.168.1.2",
+                "netmask": "24",
+                "deteAddrType": 1,
+                "deteAddr": "192.168.1.1"
+            }
+        ]
+}

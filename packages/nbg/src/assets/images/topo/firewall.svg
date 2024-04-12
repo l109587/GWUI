@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.962" height="40.352" viewBox="0 0 37.962 40.352">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f6212c;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #ffa1aa;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        fill: #f75464;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_62" data-name="矩形 62" class="cls-1" width="37.962" height="40.352" transform="translate(0 0)"/>
+    </clipPath>
+  </defs>
+  <g id="防火墙" transform="translate(0 0)">
+    <path id="路径_170" data-name="路径 170" class="cls-2" d="M0,35.36l18.256,3.052.017-4.911L.017,30.454Z"/>
+    <path id="路径_171" data-name="路径 171" class="cls-3" d="M18.327,33.509,26.314,27.6l-.023,5.79L18.31,39.3Z"/>
+    <path id="路径_172" data-name="路径 172" class="cls-3" d="M.017,30.454,18.273,33.5l7.986-5.908L8,24.54Z"/>
+    <path id="路径_173" data-name="路径 173" class="cls-2" d="M19.915,38.688l9.958,1.664.017-4.91-9.958-1.664Z"/>
+    <path id="路径_174" data-name="路径 174" class="cls-4" d="M29.89,35.442l-.017,4.91,7.981-5.907.017-4.911Z"/>
+    <path id="路径_175" data-name="路径 175" class="cls-3" d="M19.932,33.778l9.958,1.664,7.981-5.907-9.952-1.666Z"/>
+    <path id="路径_176" data-name="路径 176" class="cls-2" d="M.028,27.9l9.959,1.664L10,23.775.051,22.109Z"/>
+    <path id="路径_177" data-name="路径 177" class="cls-3" d="M10,23.775l7.987-5.909-.023,5.79L9.986,29.564Z"/>
+    <path id="路径_178" data-name="路径 178" class="cls-3" d="M.051,22.109,10,23.775l7.987-5.909L8.031,16.2Z"/>
+    <path id="路径_179" data-name="路径 179" class="cls-2" d="M29.919,27.13,29.9,32.921l-18.05-3.665.023-5.79Z"/>
+    <path id="路径_180" data-name="路径 180" class="cls-4" d="M29.919,27.13,29.9,32.921l7.987-5.913.023-5.787Z"/>
+    <g id="组_108" data-name="组 108">
+      <g id="组_107" data-name="组 107" class="cls-5">
+        <path id="路径_181" data-name="路径 181" class="cls-3" d="M11.869,23.466l7.987-5.909L37.9,21.221,29.919,27.13l-18.05-3.664"/>
+        <path id="路径_182" data-name="路径 182" class="cls-2" d="M17.5,16.324l-.023,5.791L.057,19.2.08,13.412Z"/>
+        <path id="路径_183" data-name="路径 183" class="cls-3" d="M17.5,16.324l7.987-5.909-.023,5.79-7.987,5.91Z"/>
+        <path id="路径_184" data-name="路径 184" class="cls-3" d="M.079,13.412,8.066,7.5l17.423,2.911L17.5,16.324Z"/>
+        <path id="路径_185" data-name="路径 185" class="cls-2" d="M29.952,18.4,29.929,24.2,18.98,21.882,19,16.1Z"/>
+        <path id="路径_186" data-name="路径 186" class="cls-4" d="M29.952,18.4,37.933,12.5l-.017,5.789L29.929,24.2Z"/>
+        <path id="路径_187" data-name="路径 187" class="cls-3" d="M19,16.1l7.987-5.914L37.933,12.5,29.952,18.4Z"/>
+        <path id="路径_188" data-name="路径 188" class="cls-2" d="M10.065,7.572l-.023,4.912L.09,10.819.107,5.908Z"/>
+        <path id="路径_189" data-name="路径 189" class="cls-3" d="M10.065,7.572l7.981-5.908-.017,4.907-7.987,5.913Z"/>
+        <path id="路径_190" data-name="路径 190" class="cls-6" d="M.108,5.908,8.089,0l9.958,1.664L10.066,7.572Z"/>
+        <path id="路径_191" data-name="路径 191" class="cls-2" d="M29.975,10.9l-.017,4.911L11.7,12.76l.023-4.912Z"/>
+        <path id="路径_192" data-name="路径 192" class="cls-4" d="M29.975,10.9l7.987-5.909L37.945,9.9l-7.987,5.914Z"/>
+        <path id="路径_193" data-name="路径 193" class="cls-6" d="M11.725,7.848,19.706,1.94,37.962,4.992,29.975,10.9Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

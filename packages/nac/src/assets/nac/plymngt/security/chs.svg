@@ -1,0 +1,32 @@
+<svg id="信创" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #1c6eff;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1215" data-name="矩形 1215" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_1236" data-name="组 1236" class="cls-2">
+    <path id="路径_3706" data-name="路径 3706" class="cls-3" d="M16,4.814c0,4.477-2.769,8.615-7.278,10.882h0l-.561.273a.314.314,0,0,1-.263,0l-.194-.09C2.957,13.67,0,9.412,0,4.784V1.414a.237.237,0,0,1,.218-.221L7.882,0a.355.355,0,0,1,.046,0h.191a.344.344,0,0,1,.046,0L15.783,1.2A.237.237,0,0,1,16,1.417v3.4Z"/>
+    <path id="路径_3707" data-name="路径 3707" class="cls-4" d="M4.136,3.319q-.278.671-.614,1.307T2.83,5.845c-.239.385-.469.719-.687,1.007l.822.88c.157-.2.3-.4.433-.6l.4-.6v5.62H4.922V4.491q.227-.5.418-1.026v0c.13-.355.254-.728.37-1.122L4.584,2.033a9.75,9.75,0,0,1-.448,1.286"/>
+    <path id="路径_3708" data-name="路径 3708" class="cls-4" d="M10.24,3.238c-.069-.215-.139-.417-.21-.6S9.9,2.28,9.844,2.128L8.632,2.3l.331.938H5.947V4.264h7.442V3.238Z"/>
+    <rect id="矩形_1213" data-name="矩形 1213" class="cls-4" width="5.809" height="0.928" transform="translate(6.57 4.964)"/>
+    <rect id="矩形_1214" data-name="矩形 1214" class="cls-4" width="5.809" height="0.949" transform="translate(6.57 6.592)"/>
+    <path id="路径_3709" data-name="路径 3709" class="cls-4" d="M6.462,12.157H7.636v-.648h3.7v.648h1.176V8.222H6.462ZM7.636,9.208h3.7V10.55h-3.7Z"/>
+  </g>
+</svg>

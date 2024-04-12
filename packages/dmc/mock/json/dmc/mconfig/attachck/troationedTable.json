@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "data": [
+    {
+      "isOnline": "在线",
+      "devid": "16",
+      "ip": "192.168.1.1",
+      "name": "测试机1",
+      "result": "2",
+      "update_time": "2022-12-22 13:34:48",
+      "zoneName": "~~~~~~~~~~~"
+    },
+    {
+      "isOnline": "离线",
+      "devid": "14",
+      "ip": "192.168.1.2",
+      "name": "测试机2",
+      "state": "1",
+      "result": "1",
+      "zoneName": "~~~~~~~~~~~",
+      "update_time": "2022-12-22 13:34:48"
+    }
+  ]
+}

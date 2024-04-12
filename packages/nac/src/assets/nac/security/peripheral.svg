@@ -1,0 +1,21 @@
+<svg id="USB外设检查" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1268" data-name="矩形 1268" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="组_1340" data-name="组 1340" class="cls-2">
+    <path id="路径_3782" data-name="路径 3782" class="cls-1" d="M18.75,6.25h-2.5v-5A1.25,1.25,0,0,0,15,0H5A1.25,1.25,0,0,0,3.75,1.25v5H1.25A1.25,1.25,0,0,0,0,7.5v8.75A3.75,3.75,0,0,0,3.75,20h12.5A3.75,3.75,0,0,0,20,16.25V7.5a1.25,1.25,0,0,0-1.25-1.25M5,1.25H15v5H5Zm13.75,15a2.5,2.5,0,0,1-2.5,2.5H3.75a2.5,2.5,0,0,1-2.5-2.5V7.5h17.5Z"/>
+    <rect id="矩形_1266" data-name="矩形 1266" class="cls-1" width="1.25" height="2.5" transform="translate(7.5 2.5)"/>
+    <rect id="矩形_1267" data-name="矩形 1267" class="cls-1" width="1.25" height="2.5" transform="translate(11.25 2.5)"/>
+  </g>
+</svg>

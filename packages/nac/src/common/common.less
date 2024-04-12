@@ -1,0 +1,107 @@
+.ant-form-item {
+  margin-bottom: 15px !important;
+}
+// draw关闭按钮右上角
+// .operate-drawm-close-right
+.ant-drawer-close {
+  position: absolute;
+  right: 0;
+}
+
+//button单选框 宽度修改 start
+// .operate-drawm-radio-button
+.radio-width-mode {
+
+  // .operate-drawm-radio-button
+  .ant-form-item-control-input-content
+    .ant-radio-group
+    .ant-radio-wrapper-in-form-item,
+  .ant-form-item-control-input-content
+    .ant-radio-group
+    .ant-radio-button-wrapper-in-form-item {
+    display: table-cell;
+  }
+}
+// button end
+.ant-radio-button-wrapper-in-form-item {
+  display: table-cell;
+}
+.ant-form-item-control-input-content .ant-radio-group-solid {
+  width: 100%;
+  display: table;
+  text-align: center;
+}
+
+
+//复选款宽度修改 start
+.checkbox-width-mode {
+  .ant-form-item-control-input-content .ant-checkbox-group {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+// button end
+
+
+//时间框宽度修改
+// .operate-drawm-radio-button
+.ant-picker {
+  width: 100%;
+}
+
+.ant-form-item-label > label::after {
+  content: " ";
+  position: relative;
+  top: -0.5px;
+  margin: 0 8px 0 2px;
+}
+.ant-drawer-header {
+  padding: 16px 15px 14px 16px;
+}
+
+.delmodalcurrent .ant-modal-content,
+.delmodalcurrent .ant-btn-primary,
+.delmodalcurrent .ant-btn-default {
+  border-radius: 5px;
+}
+.delmodalcurrent .ant-btn-primary {
+  background-color: #f5f5f5;
+  border: 1px solid rgba(223, 223, 223, 1);
+  color: #f5212d;
+}
+
+.ant-input-number,
+.ant-radio-button-wrapper,
+.ant-input-affix-wrapper {
+  height: 30px;
+  line-height: 28px;
+}
+
+.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+  height: 30px;
+}
+
+.ant-form-item-control-input {
+  min-height: 30px;
+}
+
+.ant-drawer-body {
+  padding: 30px 24px;
+}
+
+.tablerulesbox {
+  .ant-table.ant-table-small .ant-table-title,
+  .ant-table.ant-table-small .ant-table-footer,
+  .ant-table.ant-table-small .ant-table-thead > tr > th,
+  .ant-table.ant-table-small .ant-table-tbody > tr > td,
+  .ant-table.ant-table-small tfoot > tr > th,
+  .ant-table.ant-table-small tfoot > tr > td {
+    padding: 4.5px 8px !important;
+  }
+
+  tr > td > .ant-btn-dashed {
+    margin-bottom: 0px !important;
+    margin-top: 3px !important;
+  }
+}

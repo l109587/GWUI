@@ -1,0 +1,20 @@
+<svg id="密码策略" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1263" data-name="矩形 1263" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="组_1334" data-name="组 1334" class="cls-2">
+    <path id="路径_3777" data-name="路径 3777" class="cls-1" d="M18.75,3.75H15V1.25A1.25,1.25,0,0,0,13.75,0H6.25A1.25,1.25,0,0,0,5,1.25v2.5H1.25A1.25,1.25,0,0,0,0,5V18.75A1.25,1.25,0,0,0,1.25,20h17.5A1.25,1.25,0,0,0,20,18.75V5a1.25,1.25,0,0,0-1.25-1.25M6.25,1.25h7.5v2.5H6.25Zm12.5,17.5H1.25V5h17.5Z"/>
+    <rect id="矩形_1262" data-name="矩形 1262" class="cls-1" width="1.25" height="6.25" transform="translate(9.375 8.75)"/>
+  </g>
+</svg>

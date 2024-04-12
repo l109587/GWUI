@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "data": [
+    {
+      "text": "北京CA",
+      "value": "BJCA",
+      "keyType": [
+        { "text": "国际商用密码标准(RSA)", "value": "RSA" },
+        { "text": "中国国家密码标准(SM2)", "value": "SM2" }
+      ]
+    },
+    {
+      "text": "格尔UKEY",
+      "value": "KOAL",
+      "keyType": [
+        { "text": "国际商用密码标准(RSA)", "value": "RSA" },
+        { "text": "中国国家密码标准(SM2)", "value": "SM2" }
+      ]
+    },
+    {
+      "text": "龙脉UKEY",
+      "value": "LMKY",
+      "keyType": [
+        { "text": "国际商用密码标准(RSA)", "value": "RSA" },
+        { "text": "中国国家密码标准(SM2)", "value": "SM2" }
+      ]
+    }
+  ]
+}

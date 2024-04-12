@@ -1,0 +1,20 @@
+<svg id="杀毒软件" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1278" data-name="矩形 1278" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="组_1354" data-name="组 1354" class="cls-2">
+    <path id="路径_3797" data-name="路径 3797" class="cls-1" d="M19.96,3.75A32.042,32.042,0,0,1,10,0S1.286,3.75.041,3.75C.041,3.75-1.2,20,10,20S19.96,3.75,19.96,3.75M15.48,16.5A7.048,7.048,0,0,1,10,18.75,7.049,7.049,0,0,1,4.521,16.5C1.44,13.159,1.216,7.056,1.25,4.755c2.1-.606,5.983-2.213,8.684-3.368a35.452,35.452,0,0,0,8.817,3.4c.031,2.326-.205,8.388-3.272,11.708" transform="translate(0)"/>
+    <path id="路径_3798" data-name="路径 3798" class="cls-1" d="M10.757,4H7.023l-2.49,6.25H9.513l-2.49,5L13.247,9H7.023Z" transform="translate(1.11 1)"/>
+  </g>
+</svg>

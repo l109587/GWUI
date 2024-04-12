@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "data": {
+    "violation": {
+      "title": "违规统计",
+      "illout": {
+        "title": "违规外联",
+        "num": 14,
+        "count": 134
+      },
+      "series": {
+        "title": "网络串线",
+        "num": 14,
+        "count": 134
+      },
+      "illinn": {
+        "title": "违规内联",
+        "num": 14,
+        "multiCard": 64,
+        "netIn": 0
+      },
+      "illsvr": {
+        "title": "违规服务",
+        "num": 14,
+        "anonser": 19,
+        "proxyser": 5,
+        "remoteser": 159,
+        "locationser": 19
+      }
+    }
+  }
+}

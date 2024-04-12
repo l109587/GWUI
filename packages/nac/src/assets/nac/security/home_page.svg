@@ -1,0 +1,19 @@
+<svg id="浏览器主页" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1271" data-name="矩形 1271" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="组_1346" data-name="组 1346" class="cls-2">
+    <path id="路径_3789" data-name="路径 3789" class="cls-1" d="M19.8,8.919,10.426.169a.623.623,0,0,0-.852,0L.2,8.919a.624.624,0,1,0,.853.912l.824-.769V19.375A.625.625,0,0,0,2.5,20h15a.625.625,0,0,0,.625-.625V9.063l.824.769a.624.624,0,1,0,.853-.912M7.5,11.25h5v7.5h-5Zm9.375,7.5H13.75V10.625A.625.625,0,0,0,13.125,10H6.875a.625.625,0,0,0-.625.625V18.75H3.125V7.9L10,1.48,16.875,7.9Z" transform="translate(0)"/>
+  </g>
+</svg>

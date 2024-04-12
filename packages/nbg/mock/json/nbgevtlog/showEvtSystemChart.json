@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "title": "事件统计",
+  "data": [
+    {
+      "event": "系统重启",
+      "value": 2830460
+    },
+    {
+      "event": "系统升级",
+      "value": 304900
+    },
+    {
+      "event": "aaa",
+      "value": 2830460
+    },
+    {
+      "event": "bbb",
+      "value": 3049000
+    },
+    {
+      "event": "ccc",
+      "value": 2830460
+    },
+    {
+      "event": "dddd",
+      "value": 304000
+    },
+    {
+      "event": "eee",
+      "value": 283060
+    },
+    {
+      "event": "fff",
+      "value": 304900
+    },
+    {
+      "event": "gggg",
+      "value": 2831040
+    },
+    {
+      "event": "hhhhh",
+      "value": 254900
+    },
+    {
+      "event": "iiiii",
+      "value": 2830460
+    },
+    {
+      "event": "jjjjj",
+      "value": 3009000
+    },
+    {
+      "event": "kkk",
+      "value": 3040900
+    },
+    {
+      "event": "lll",
+      "value": 283040
+    },
+    {
+      "event": "mmmm",
+      "value": 2540900
+    },
+    {
+      "event": "nnnn",
+      "value": 2830460
+    },
+    {
+      "event": "ooooo",
+      "value": 304900
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "total": 7,
+  "data": [
+    {
+      "id": "1",
+      "name": "访客名称",
+      "status": "Y",
+      "able_search": "Y",
+      "is_search": "Y",
+      "is_sys": "Y"
+    },
+    {
+      "id": "2",
+      "name": "身份证号",
+      "status": "N",
+      "able_search": "Y",
+      "is_search": "N",
+      "is_sys": "Y"
+    },
+    {
+      "id": "3",
+      "name": "所属公司",
+      "status": "Y",
+      "able_search": "N",
+      "is_search": "N",
+      "is_sys": "Y"
+    },
+    {
+      "id": "4",
+      "name": "部门",
+      "status": "Y",
+      "able_search": "N",
+      "is_search": "N",
+      "is_sys": "Y"
+    },
+    {
+      "id": "5",
+      "name": "联系电话",
+      "status": "Y",
+      "able_search": "Y",
+      "is_search": "N",
+      "is_sys": "Y"
+    },
+    {
+      "id": "6",
+      "name": "访问原由",
+      "status": "Y",
+      "able_search": "N",
+      "is_search": "N",
+      "is_sys": "Y"
+    },
+    {
+      "id": "7",
+      "name": "接待人",
+      "status": "Y",
+      "able_search": "N",
+      "is_search": "N",
+      "is_sys": "Y"
+    }
+  ]
+}

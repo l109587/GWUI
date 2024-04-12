@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "data": [
+    { "text": "默认口", "value": "default" },
+    { "text": "管理口", "value": "mgt", "hide": "all" },
+    { "text": "热备口", "value": "ext", "hide": "gwmacv4" },
+    { "text": "镜像口", "value": "mirror" },
+    { "text": "路由口", "value": "routed" },
+    { "text": "转发口", "value": "forward" }
+  ]
+}

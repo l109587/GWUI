@@ -1,0 +1,20 @@
+<svg id="级联设备" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_131" data-name="矩形 131" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_190" data-name="组 190" class="cls-2">
+    <path id="路径_241" data-name="路径 241" class="cls-1" d="M14,1a1,1,0,0,1,1,1v9a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1Zm0-1H2A2,2,0,0,0,0,2v9a2,2,0,0,0,2,2H14a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2"/>
+    <path id="路径_242" data-name="路径 242" class="cls-1" d="M12.5,16h-9a.5.5,0,0,1,0-1h9a.5.5,0,0,1,0,1"/>
+  </g>
+</svg>

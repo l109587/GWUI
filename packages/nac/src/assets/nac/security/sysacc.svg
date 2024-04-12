@@ -1,0 +1,24 @@
+<svg id="系统账号" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1256" data-name="矩形 1256" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="组_1299" data-name="组 1299" class="cls-2">
+    <path id="路径_3765" data-name="路径 3765" class="cls-1" d="M17.5,0H2.5A2.5,2.5,0,0,0,0,2.5V13.75a2.5,2.5,0,0,0,2.5,2.5h15a2.5,2.5,0,0,0,2.5-2.5V2.5A2.5,2.5,0,0,0,17.5,0m1.25,13.75A1.252,1.252,0,0,1,17.5,15H2.5a1.252,1.252,0,0,1-1.25-1.25V2.5A1.252,1.252,0,0,1,2.5,1.25h15A1.252,1.252,0,0,1,18.75,2.5Z"/>
+    <path id="路径_3766" data-name="路径 3766" class="cls-1" d="M14.875,15H3.625a.625.625,0,0,0,0,1.25h11.25a.625.625,0,0,0,0-1.25" transform="translate(0.75 3.75)"/>
+    <path id="路径_3767" data-name="路径 3767" class="cls-1" d="M3,10.25H9.25V4H3Zm1.25-5H8V9H4.25Z" transform="translate(0.75 1)"/>
+    <rect id="矩形_1253" data-name="矩形 1253" class="cls-1" width="5" height="1.25" transform="translate(11.25 5)"/>
+    <rect id="矩形_1254" data-name="矩形 1254" class="cls-1" width="5" height="1.25" transform="translate(11.25 7.511)"/>
+    <rect id="矩形_1255" data-name="矩形 1255" class="cls-1" width="5" height="1.25" transform="translate(11.25 10.005)"/>
+  </g>
+</svg>

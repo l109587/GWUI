@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="39.529" viewBox="0 0 48 39.529">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+      }
+
+      .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ec2c3b;
+      }
+
+      .cls-3 {
+        fill: #ea1123;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_952" data-name="矩形 952" class="cls-1" width="20" height="20" transform="translate(0.001 0)"/>
+    </clipPath>
+  </defs>
+  <g id="断开" transform="translate(-208.942 -21)">
+    <g id="矩形_996" data-name="矩形 996" class="cls-2" transform="translate(208.942 21)">
+      <rect class="cls-5" width="48" height="31.059"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="47" height="30.059"/>
+    </g>
+    <path id="联合_7" data-name="联合 7" class="cls-3" d="M-644-846.529v-2.823h7.06V-855h2.823v5.647h7.059v2.823Z" transform="translate(868.942 907.059)"/>
+    <g id="组_1009" data-name="组 1009" transform="translate(223.999 27)">
+      <g id="组_1006" data-name="组 1006" class="cls-4" transform="translate(0 0)">
+        <path id="路径_3439" data-name="路径 3439" class="cls-1" d="M18.35,1.652a5.63,5.63,0,0,0-7.96-.009l-.009.009L7.857,4.176,9.186,5.5,11.708,2.98a3.757,3.757,0,0,1,5.313,5.314L14.5,10.817l1.33,1.33,2.523-2.524a5.641,5.641,0,0,0,0-7.971M8.3,17.024A3.757,3.757,0,1,1,2.983,11.71L5.505,9.187,4.175,7.856,1.653,10.38a5.63,5.63,0,0,0-.008,7.962l.008.006a5.631,5.631,0,0,0,7.964,0l0,0,2.525-2.525L10.816,14.5,8.3,17.024M3.447,2.12a.207.207,0,0,0-.294,0L2.12,3.151a.211.211,0,0,0,0,.295L16.557,17.884a.205.205,0,0,0,.294,0l1.033-1.03a.21.21,0,0,0,0-.294L3.447,2.121Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

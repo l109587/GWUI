@@ -1,0 +1,79 @@
+{
+  "success": true,
+  "data": {
+    "risk": {
+      "title": "风险统计",
+      "sysfalw": [
+        {
+          "name": "严重",
+          "value": 0.3,
+          "num": 10
+        },
+        {
+          "name": "高危",
+          "value": 0.3,
+          "num": 8
+        },
+        {
+          "name": "中危",
+          "value": 0.2,
+          "num": 7
+        },
+        {
+          "name": "低危",
+          "value": 0.2,
+          "num": 6
+        }
+      ],
+      "weakpwd": [
+        {
+          "rank": 1,
+          "type": "SSh弱口令",
+          "num": 4
+        },
+        {
+          "rank": 2,
+          "type": "SMBSSh弱口令",
+          "num": 4
+        },
+        {
+          "rank": 3,
+          "type": "VNCSSh弱口令",
+          "num": 2
+        },
+        {
+          "rank": 4,
+          "type": "TEST4SSh弱口令",
+          "num": 2
+        },
+        {
+          "rank": 5,
+          "type": "TEST5",
+          "num": 6
+        }
+      ],
+      "port": [
+        {
+          "rank": 1,
+          "type": "113",
+          "num": 4
+        },
+        {
+          "rank": 2,
+          "type": "80",
+          "num": 4
+        },
+        {
+          "rank": 3,
+          "type": "20",
+          "num": 2
+        },
+        {
+          "rank": 4,
+          "type": "50",
+          "num": 8
+        }
+      ]
+    }
+  }
+}

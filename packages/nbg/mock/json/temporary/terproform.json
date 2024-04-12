@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "outlineCfgName": ["全局配置", "个性配置"],
+  "monitorItems": ["ckInOut", "vioSrv", "vioDev"],
+  "IPV6AssetRpt": "Y",
+  "selfCheck": "Y",
+  "outlineBlock": "Y",
+  "period": 3,
+  "port": 1,
+  "exception": "192.168.134.151"
+}

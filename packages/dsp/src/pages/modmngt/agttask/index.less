@@ -1,0 +1,122 @@
+.agttaskdrawformbox {
+  //去掉标题 ：
+  .ant-form-item-label > label::after {
+    content: "";
+  }
+  .leftbox28 {
+    margin-left: 28px;
+  }
+  .topcontent {
+    .ant-form-item {
+      display: block;
+    }
+  }
+  .ant-form-item {
+    margin-bottom: 10px !important;
+  }
+  .formmaringbuttom5 {
+    .ant-form-item {
+      margin-bottom: 5px !important;
+    }
+  }
+  .formmaringbuttom0 {
+    .ant-form-item {
+      margin-bottom: 0px !important;
+    }
+  }
+
+  //单选框宽度 start
+  .radio-width-mode {
+    // .operate-drawm-radio-button
+    .ant-form-item-control-input-content
+      .ant-radio-group
+      .ant-radio-wrapper-in-form-item,
+    .ant-form-item-control-input-content
+      .ant-radio-group
+      .ant-radio-button-wrapper-in-form-item {
+      display: table-cell;
+    }
+  }
+  // button end
+  .ant-radio-button-wrapper-in-form-item {
+    display: table-cell;
+  }
+  .ant-form-item-control-input-content .ant-radio-group-solid {
+    width: 300px;
+    display: table;
+    text-align: center;
+  }
+  .ant-form-item-control-input-content .ant-radio-group-outline {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+  }
+  //单选框宽度 end
+
+  //复选款宽度修改 start
+  .checkbox-width-mode {
+    .ant-form-item-control-input-content .ant-checkbox-group {
+      width: 300px;
+      display: flex;
+      justify-content: space-between;
+    }
+    .ant-form-item-label > label {
+      height: 0;
+    }
+  }
+
+  .checkbox-width-table-mode {
+    .ant-form-item-control-input-content .ant-checkbox-group {
+      width: 400px;
+      display: table;
+    }
+    .ant-checkbox-wrapper {
+      width: 97px;
+      white-space: nowrap;
+    }
+    .ant-form-item-label > label {
+      height: 0;
+    }
+  }
+  .checkbox-width-arrange-mode {
+    .ant-checkbox-wrapper {
+      width: 85%;
+    }
+    .ant-form-item-label > label {
+      height: 0;
+    }
+  }
+  //复选款宽度修改 end
+  // button end
+  .contentbox {
+    .ant-form-item-control-input {
+      min-height: 0;
+    }
+    .bottomcontent {
+      display: flex;
+      .contentbottombox {
+        width: 480px;
+        background-color: rgba(249, 249, 249, 1);
+        padding: 17px 34px 21px 34px;
+        .ant-form-item-label {
+          width: 65px;
+          text-align: right;
+        }
+        .lang-width-label {
+          .ant-form-item-label {
+            width: auto;
+          }
+        }
+        .small-height-label {
+          .ant-form-item-label > label {
+            height: 0;
+          }
+        }
+      }
+    }
+    .contenttitlebox {
+      margin: 20px 0 8px 0;
+      font-weight: 600,
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "data": {
+    "status": "Y",
+    "sms_sw": "N",
+    "allocate_type": "dynamic",
+    "allocate_list": [
+      { "name": "name", "allocation": "auto", "permission": "全网" },
+      { "name": "name1", "allocation": "manual", "permission": "外网" }
+    ],
+    "pwdcode_get": "web",
+    "qrcode_sw": "N",
+    "sms_para": "",
+    "authority": "外网",
+    "use_time": "1",
+    "offline": "60",
+    "expire_del": "10",
+    "guest_autype": "pwd",
+    "tip_info": "恭喜您，认证成功！"
+  }
+}

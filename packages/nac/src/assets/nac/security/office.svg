@@ -1,0 +1,20 @@
+<svg id="Office正版" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1283" data-name="矩形 1283" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="组_1358" data-name="组 1358" class="cls-2">
+    <path id="路径_3802" data-name="路径 3802" class="cls-1" d="M17.5,0H2.5A2.5,2.5,0,0,0,0,2.5v15A2.5,2.5,0,0,0,2.5,20h15A2.5,2.5,0,0,0,20,17.5V2.5A2.5,2.5,0,0,0,17.5,0m1.25,17.5a1.252,1.252,0,0,1-1.25,1.25H2.5A1.252,1.252,0,0,1,1.25,17.5V2.5A1.252,1.252,0,0,1,2.5,1.25h15A1.252,1.252,0,0,1,18.75,2.5Z"/>
+    <path id="路径_3803" data-name="路径 3803" class="cls-1" d="M2.9,4.8V13.99l3-.937V6.761l5.25-1.5v9.854l-7.875-.937L11.15,16.99l4.5-.937V3.115L11.113,1.99Zm11.5-.71V15.036l-2,.416V3.6l-1.594.455-5.25,1.5-.906.26v6.314l-.5.156V5.7l7.019-2.4Z" transform="translate(0.725 0.498)"/>
+  </g>
+</svg>

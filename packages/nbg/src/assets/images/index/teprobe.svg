@@ -1,0 +1,20 @@
+<svg id="终端探针" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1038" data-name="矩形 1038" class="cls-1" width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="组_1085" data-name="组 1085" class="cls-2">
+    <path id="路径_3493" data-name="路径 3493" class="cls-1" d="M28,0H4A4,4,0,0,0,0,4V28a4,4,0,0,0,4,4H28a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4m2,28a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V4A2,2,0,0,1,4,2H28a2,2,0,0,1,2,2Z"/>
+    <path id="路径_3494" data-name="路径 3494" class="cls-1" d="M12,10.008l1,1-9,11,11-9,1,1,8-8-4-4Z" transform="translate(4 2.008)"/>
+  </g>
+</svg>

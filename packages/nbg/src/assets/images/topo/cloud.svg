@@ -1,0 +1,74 @@
+<svg id="组_1138" data-name="组 1138" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="36.758" viewBox="0 0 50 36.758">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.238" y1="0.106" x2="0.045" y2="1.22" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6ccbfc"/>
+      <stop offset="0.115" stop-color="#34a6f6"/>
+      <stop offset="0.18" stop-color="#3b91f0"/>
+      <stop offset="0.195" stop-color="#3898f2"/>
+      <stop offset="0.414" stop-color="#29a6f6"/>
+      <stop offset="0.623" stop-color="#26a7f7"/>
+      <stop offset="0.649" stop-color="#055bb8"/>
+      <stop offset="0.805" stop-color="#3c9be1"/>
+      <stop offset="1" stop-color="#5ec4fb"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="路径_3539" data-name="路径 3539" class="cls-1" d="M16.8,13.533a12.091,12.091,0,1,0-5.049,23.225H35.275v-.007A11.362,11.362,0,0,0,39.6,15.068h0A12.095,12.095,0,0,0,16.8,13.533"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.004" y1="1" x2="0.025" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4da0ff"/>
+      <stop offset="0.67" stop-color="#1c77d8"/>
+      <stop offset="0.994" stop-color="#0054b0"/>
+      <stop offset="1" stop-color="#0054b0"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="路径_3540" data-name="路径 3540" class="cls-2" d="M20.567,7.378A12.09,12.09,0,0,0,4.136,15.584,12.063,12.063,0,0,1,16.8,13.533,12.1,12.1,0,0,1,39.6,15.068h0a11.365,11.365,0,0,1,6.343,12.867A11.349,11.349,0,0,0,43.369,8.913h0A12.095,12.095,0,0,0,20.567,7.378"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="矩形_1066" data-name="矩形 1066" class="cls-1" width="50" height="36.758" transform="translate(0 0)"/>
+    </clipPath>
+  </defs>
+  <g id="组_1133" data-name="组 1133">
+    <g id="组_1132" data-name="组 1132" class="cls-3">
+      <rect id="矩形_1064" data-name="矩形 1064" class="cls-4" width="47.993" height="30.603" transform="translate(-0.185 6.155)"/>
+    </g>
+  </g>
+  <g id="组_1135" data-name="组 1135">
+    <g id="组_1134" data-name="组 1134" class="cls-5">
+      <rect id="矩形_1065" data-name="矩形 1065" class="cls-2" width="53.3" height="53.3" transform="translate(-9.832 13.967) rotate(-45)"/>
+    </g>
+  </g>
+  <g id="组_1137" data-name="组 1137">
+    <g id="组_1136" data-name="组 1136" class="cls-6">
+      <path id="路径_3541" data-name="路径 3541" class="cls-7" d="M22.066,24.47a.888.888,0,0,0,1.031-.34,4.95,4.95,0,0,1,6.323-1.553,4.084,4.084,0,0,1,2.347,3.588A4.408,4.408,0,0,1,27.131,30.3H19.405a4.407,4.407,0,0,1-4.638-4.133,4.193,4.193,0,0,1,3.1-3.9A5.072,5.072,0,0,1,23,17.206a5.376,5.376,0,0,1,5.5,3.58,6.492,6.492,0,0,0-6.74,2.655c0,.007-.033.061-.085.161a.609.609,0,0,0,.344.848.465.465,0,0,0,.052.02"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_844" data-name="矩形 844" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="端口开放" transform="translate(0 0)">
+    <g id="组_881" data-name="组 881" class="cls-2" transform="translate(0 0)">
+      <path id="路径_3257" data-name="路径 3257" class="cls-1" d="M17.5,0H2.5A2.5,2.5,0,0,0,0,2.5v15A2.5,2.5,0,0,0,2.5,20h15A2.5,2.5,0,0,0,20,17.5V2.5A2.5,2.5,0,0,0,17.5,0m1.25,17.5a1.252,1.252,0,0,1-1.25,1.249H2.5A1.251,1.251,0,0,1,1.25,17.5V2.5A1.25,1.25,0,0,1,2.5,1.249h15A1.251,1.251,0,0,1,18.75,2.5Z" transform="translate(0 0)"/>
+      <path id="路径_3258" data-name="路径 3258" class="cls-1" d="M13,5.5V3H5.5V5.5H3v10H15.5V5.5H13Zm1.25,8.746H13v-5H11.75v5H9.875v-5H8.625v5H6.75v-5H5.5v5H4.25v-7.5h2.5v-2.5h5v2.5h2.5Z" transform="translate(0.75 0.748)"/>
+    </g>
+  </g>
+</svg>

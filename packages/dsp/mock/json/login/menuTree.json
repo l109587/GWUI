@@ -1,0 +1,319 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "analyse",
+			"icon": "MonitorOutlined",
+			"route": "",
+			"zh": {
+				"name": "统计分析"
+			},
+      "children": [
+        {
+					"name": "xreport",
+					"route": "/analyse/xreport",
+					"zh": {
+						"name": "监管综合分析"
+					}
+				},
+        {
+					"name": "qmstats",
+					"route": "/analyse/qmstats",
+					"zh": {
+						"name": "攻击窃密分析"
+					}
+				},
+        {
+					"name": "xmstats",
+					"route": "/analyse/xmstats",
+					"zh": {
+						"name": "敏感信息分析"
+					}
+				}
+      ]
+    },
+    {
+			"name": "modmngt",
+			"icon": "MonitorOutlined",
+			"route": "",
+			"zh": {
+				"name": "组件管理"
+			},
+			"children": [
+				{
+					"name": "agentmd",
+					"route": "/modmngt/agentmd",
+					"zh": {
+						"name": "终端组件"
+					}
+				},
+				{
+					"name": "devlist",
+					"route": "/modmngt/devlist",
+					"zh": {
+						"name": "检测设备"
+					}
+				},
+        {
+          "name": "members",
+          "route": "/modmngt/members",
+          "zh": {
+            "name": "组织人员"
+          }
+        },
+        {
+          "name": "ruleinfo",
+          "route": "/modmngt/ruleinfo",
+          "zh": {
+            "name": "中心级别"
+          }
+        }
+			]
+		},
+    {
+			"name": "dspmngt",
+			"icon": "MonitorOutlined",
+			"route": "",
+			"zh": {
+				"name": "事件处置"
+			},
+			"children": [
+				{
+					"name": "ycalert",
+					"route": "/dspmngt/ycalert",
+					"zh": {
+						"name": "异常通信告警"
+					}
+				},
+        {
+					"name": "xmjudge",
+					"route": "/dspmngt/xmjudge",
+					"zh": {
+						"name": "敏感信息研判"
+					}
+				},
+        {
+          "name": "xmsjdsp",
+          "route": "/dspmngt/xmsjdsp",
+          "zh": {
+            "name": "泄密事件处置"
+          }
+        },
+        {
+          "name": "wxyjdsp",
+          "route": "/dspmngt/wxyjdsp",
+          "zh": {
+            "name": "威胁预警处置"
+          }
+        }
+			]
+		},
+    {
+      "name": "plymngt",
+      "icon": "GlobalOutlined",
+      "zh": {
+        "name": "策略管理"
+      },
+      "children": [
+        {
+          "name": "mgcheck",
+          "route": "/plymngt/mgcheck",
+          "zh": {
+            "name": "敏感信息检测"
+          }
+        },
+        {
+          "name": "command",
+          "route": "/plymngt/command",
+          "zh": {
+            "name": "系统指令策略"
+          }
+        },
+        {
+          "name": "yccheck",
+          "route": "/plymngt/yccheck",
+          "zh": {
+            "name": "异常通道检测"
+          }
+        },
+        {
+          "name": "agttask",
+          "route": "/modmngt/agttask",
+          "zh": {
+            "name": "终端自查任务"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sysconf",
+      "icon": "SettingOutlined",
+      "route": "/index/index",
+      "zh": {
+        "name": "系统配置"
+      },
+      "children": [
+        {
+          "name": "adminacc",
+          "route": "/sysconf/adminacc",
+          "zh": {
+            "name": "管理员账号"
+          }
+        },
+        {
+          "name": "network",
+          "route": "/sysconf/network",
+          "zh": {
+            "name": "网络设置"
+          }
+        },
+        {
+          "name": "systime",
+          "route": "/sysconf/systime",
+          "zh": {
+            "name": "系统时间"
+          }
+        },
+        {
+          "name": "sysserv",
+          "route": "/sysconf/sysserv",
+          "zh": {
+            "name": "系统服务"
+          }
+        },
+        {
+          "name": "syszone",
+          "route": "/sysconf/syszone",
+          "zh": {
+            "name": "区域配置"
+          }
+        },
+        {
+          "name": "apiauth",
+          "route": "/sysconf/apiauth",
+          "zh": {
+            "name": "接口授权"
+          }
+        },
+        {
+          "name": "sysmenu",
+          "route": "/sysconf/sysmenu",
+          "zh": {
+            "name": "菜单权限"
+          }
+        },
+        {
+          "name": "netconf",
+          "route": "/sysconf/netconf",
+          "zh": {
+            "name": "网络配置"
+          }
+        },
+        {
+          "name": "syscert",
+          "route": "/sysconf/syscert",
+          "zh": {
+            "name": "系统证书"
+          }
+        },
+        {
+          "name": "deployd",
+          "route": "/sysconf/deployd",
+          "zh": {
+            "name": "部署配置"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sysmain",
+      "icon": "ToolOutlined",
+      "route": "/index/index",
+      "zh": {
+        "name": "系统维护"
+      },
+      "children": [
+        {
+          "name": "mtacfg",
+          "route": "/sysmain/mtacfg",
+          "zh": {
+            "name": "配置维护"
+          }
+        },
+        {
+          "name": "status",
+          "route": "/sysmain/status",
+          "zh": {
+            "name": "系统状态"
+          }
+        },
+        {
+          "name": "update",
+          "route": "/sysmain/update",
+          "zh": {
+            "name": "系统升级"
+          }
+        },
+        {
+          "name": "mtadat",
+          "route": "/sysmain/mtadat",
+          "zh": {
+            "name": "数据维护"
+          }
+        },
+        {
+          "name": "mtalog",
+          "route": "/sysmain/mtalog",
+          "zh": {
+            "name": "日志维护"
+          }
+        },
+        {
+          "name": "remote",
+          "route": "/sysmain/remote",
+          "zh": {
+            "name": "系统调试"
+          }
+        }
+      ]
+    },
+    {
+      "name": "evtlog",
+      "icon": "ToolOutlined",
+      "route": "/evtlog/index",
+      "zh": {
+        "name": "事件日志"
+      },
+      "children": [
+        {
+          "name": "alarmcfg",
+          "route": "/evtlog/alarmcfg",
+          "zh": {
+            "name": "告警配置"
+          }
+        },
+        {
+          "name": "alarmevt",
+          "route": "/evtlog/alarmevt",
+          "zh": {
+            "name": "告警事件"
+          }
+        },
+        {
+          "name": "reportcfg",
+          "route": "/evtlog/reportcfg",
+          "zh": {
+            "name": "上报配置"
+          }
+        },
+        {
+          "name": "evtsystem",
+          "route": "/evtlog/evtsystem",
+          "zh": {
+            "name": "系统事件"
+          }
+        }
+      ]
+    }
+  ]
+}

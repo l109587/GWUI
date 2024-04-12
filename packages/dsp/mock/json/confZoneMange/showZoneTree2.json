@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "id": "2",
+  "name": "\u5317\u4eac",
+  "level": "2",
+  "gpnamePath": "/\u5168\u90e8\u533a\u57df/\u5317\u4eac",
+  "gpnameIDPath": "0.1.2",
+  "gpname": "\u5317\u4eac",
+  "gpid": "1",
+  "leaf": "N",
+  "type": "zone",
+  "number": "zone20240306000001",
+  "children": [
+    {
+      "id": "3",
+      "name": "\u6d77\u6dc0",
+      "level": "3",
+      "gpnamePath": "/\u5168\u90e8\u533a\u57df/\u5317\u4eac/\u6d77\u6dc0",
+      "gpnameIDPath": "0.1.2.3",
+      "gpname": "\u6d77\u6dc0",
+      "gpid": "2",
+      "leaf": "Y",
+      "type": "org",
+      "number": "zone20240306000002"
+    }
+  ]
+}

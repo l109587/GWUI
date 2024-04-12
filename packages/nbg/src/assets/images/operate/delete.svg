@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff1717;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_93" data-name="矩形 93" class="cls-1" width="14" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="删除" transform="translate(1 1)">
+    <rect id="矩形_95" data-name="矩形 95" class="cls-2" width="16" height="16" transform="translate(-1 -1)"/>
+    <g id="组_127" data-name="组 127" class="cls-3">
+      <path id="路径_165" data-name="路径 165" class="cls-1" d="M12.508,4a.461.461,0,0,0-.492.423v7.314a1.547,1.547,0,0,1-1.647,1.417H3.632a1.548,1.548,0,0,1-1.649-1.417V4.423A.461.461,0,0,0,1.492,4,.461.461,0,0,0,1,4.423v7.314A2.471,2.471,0,0,0,3.632,14h6.737A2.471,2.471,0,0,0,13,11.737V4.423A.461.461,0,0,0,12.508,4"/>
+      <path id="路径_166" data-name="路径 166" class="cls-1" d="M5,11.462V4.5a.5.5,0,1,0-1,0v6.965a.5.5,0,1,0,1,0"/>
+      <path id="路径_167" data-name="路径 167" class="cls-1" d="M10,11.462V4.5a.5.5,0,1,0-1,0v6.965a.5.5,0,1,0,1,0"/>
+      <path id="路径_168" data-name="路径 168" class="cls-1" d="M13.546,1.99H.454A.479.479,0,0,0,0,2.49a.479.479,0,0,0,.454.5H13.546A.479.479,0,0,0,14,2.49a.479.479,0,0,0-.454-.5"/>
+      <path id="路径_169" data-name="路径 169" class="cls-1" d="M4.534,1H9.465A.518.518,0,0,0,10,.5.518.518,0,0,0,9.465,0H4.534A.518.518,0,0,0,4,.5a.518.518,0,0,0,.534.5"/>
+    </g>
+  </g>
+</svg>

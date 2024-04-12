@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="39.529" viewBox="0 0 48 39.529">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #2fc997;
+      }
+
+      .cls-2 {
+        fill: #12c189;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="正常" transform="translate(-138 -21)">
+    <g id="矩形_993" data-name="矩形 993" class="cls-1" transform="translate(138 21)">
+      <rect class="cls-3" width="48" height="31.059"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="47" height="30.059"/>
+    </g>
+    <path id="联合_6" data-name="联合 6" class="cls-2" d="M-644-846.529v-2.823h7.06V-855h2.823v5.647h7.059v2.823Z" transform="translate(798 907.059)"/>
+    <path id="路径_53" data-name="路径 53" class="cls-2" d="M25.887,9.95,14.246,21.59,8.839,16.184a1.169,1.169,0,0,0-1.653,1.653l6.234,6.234a1.171,1.171,0,0,0,1.653,0L27.539,11.6A1.169,1.169,0,0,0,25.887,9.95" transform="translate(145.157 18.99)"/>
+  </g>
+</svg>

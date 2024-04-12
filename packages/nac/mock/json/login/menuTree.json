@@ -1,0 +1,364 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "index",
+      "icon": "HomeOutlined",
+      "route": "/index/tac",
+      "zh": {
+        "name": "首页"
+      }
+    },
+    {
+      "name": "usrmngt",
+      "icon": "Analysis",
+      "route": "/usrmngt",
+      "zh": {
+        "name": "用户管理"
+      },
+      "children": [
+        {
+          "name": "zoneconf",
+          "route": "/usrmngt/zoneconf",
+          "zh": { "name": "机构配置" }
+        },
+        {
+          "name": "userlist",
+          "route": "/usrmngt/userlist",
+          "zh": { "name": "用户列表" }
+        },
+        {
+          "name": "deptsync",
+          "route": "/usrmngt/deptsync",
+          "zh": { "name": "用户同步" }
+        },
+        {
+          "name": "userpush",
+          "route": "/usrmngt/userpush",
+          "zh": { "name": "用户推送" }
+        },
+        {
+          "name": "usergroup",
+          "route": "/usrmngt/usergroup",
+          "zh": { "name": "权限分组" }
+        },
+        {
+          "name": "registerParameter",
+          "route": "/manage/registerParameter",
+          "zh": { "name": "基础配置" }
+        }
+      ]
+    },
+    {
+      "name": "ecpmngt",
+      "icon": "Analysis",
+      "route": "/ecpmngt",
+      "zh": {
+        "name": "例外管理"
+      },
+      "children": [
+        {
+          "name": "macwht",
+          "route": "/ecpmngt/macwht",
+          "zh": { "name": "MAC白名单" }
+        },
+        {
+          "name": "macblk",
+          "route": "/ecpmngt/macblk",
+          "zh": { "name": "MAC黑名单" }
+        },
+        {
+          "name": "ipwht",
+          "route": "/ecpmngt/ipwht",
+          "zh": { "name": "IP白名单" }
+        },
+        {
+          "name": "ipblk",
+          "route": "/ecpmngt/ipblk",
+          "zh": { "name": "IP黑名单" }
+        },
+        {
+          "name": "svrwht",
+          "route": "/ecpmngt/svrwht",
+          "zh": { "name": "服务器白名单" }
+        }
+      ]
+    },
+    {
+      "name": "plymngt",
+      "icon": "Analysis",
+      "route": "/plymngt",
+      "zh": {
+        "name": "终端策略"
+      },
+      "children": [
+        {
+          "name": "accauth",
+          "route": "/plymngt/accauth",
+          "zh": { "name": "接入认证策略" }
+        },
+        {
+          "name": "agtupgd",
+          "route": "/plymngt/agtupgd",
+          "zh": { "name": "终端升级策略" }
+        },
+        {
+          "name": "security",
+          "route": "/plymngt/security",
+          "zh": { "name": "安全检查策略" }
+        },
+        {
+          "name": "termcfg",
+          "route": "/plymngt/termcfg",
+          "zh": { "name": "终端配置策略" }
+        }
+      ]
+    },
+    {
+      "name": "accbind",
+      "icon": "Analysis",
+      "route": "/accbind",
+      "zh": {
+        "name": "绑定管理"
+      },
+      "children": [
+        {
+          "name": "bindconf",
+          "route": "/accbind/bindconf",
+          "zh": { "name": "绑定配置" }
+        },
+        {
+          "name": "bindplcy",
+          "route": "/accbind/bindplcy",
+          "zh": { "name": "绑定策略" }
+        },
+        {
+          "name": "bindlist",
+          "route": "/accbind/bindlist",
+          "zh": { "name": "绑定列表" }
+        }
+      ]
+    },
+    {
+      "name": "accctrl",
+      "icon": "Analysis",
+      "route": "accctrl",
+      "zh": {
+        "name": "接入控制"
+      },
+      "children": [
+        {
+          "name": "radconf",
+          "route": "/accctrl/radconf",
+          "zh": { "name": "RAD配置" }
+        },
+        {
+          "name": "naslist",
+          "route": "/accctrl/naslist",
+          "zh": { "name": "NAS列表" }
+        },
+        {
+          "name": "macacct",
+          "route": "/accctrl/macacct",
+          "zh": { "name": "MAC账号" }
+        },
+        {
+          "name": "ctllist",
+          "route": "/accctrl/ctllist",
+          "zh": { "name": "控制列表" }
+        },
+        {
+          "name": "cfgpolicy",
+          "route": "/mconfig/cfgpolicy",
+          "zh": { "name": "安检策略" }
+        },
+        {
+          "name": "patch",
+          "route": "/mconfig/patch",
+          "zh": { "name": "补丁管理" }
+        }
+      ]
+    },
+    {
+      "name": "accpolicy",
+      "icon": "MonitorOutlined",
+      "route": "/accpolicy",
+      "zh": {
+        "name": "准入策略"
+      },
+      "children": [
+        {
+          "name": "devreg",
+          "route": "/accpolicy/accnet",
+          "zh": {
+            "name": "入网策略"
+          },
+          "wrt": 1
+        },
+        {
+          "name": "acl",
+          "route": "/accpolicy/acl",
+          "zh": {
+            "name": "访问控制策略"
+          },
+          "wrt": 1
+        },
+        {
+          "name": "regver",
+          "route": "/accpolicy/regver",
+          "zh": {
+            "name": "注册审核策略"
+          },
+          "wrt": 1
+        }
+      ]
+    },
+    {
+      "name": "objman",
+      "icon": "MonitorOutlined",
+      "route": "/objman",
+      "zh": {
+        "name": "对象管理"
+      },
+      "children": [
+        {
+          "name": "termgroup",
+          "route": "/objman/termgroup",
+          "zh": {
+            "name": "终端分组"
+          },
+          "wrt": 1
+        },
+        {
+          "name": "acegrp",
+          "route": "/objman/acegrp",
+          "zh": {
+            "name": "接入分组"
+          },
+          "wrt": 1
+        },
+        {
+          "name": "authcfg",
+          "route": "/objman/authcfg",
+          "zh": {
+            "name": "权限配置"
+          },
+          "wrt": 1
+        }
+      ]
+    },
+    {
+      "name": "lkaman",
+      "icon": "MonitorOutlined",
+      "route": "/lkaman",
+      "zh": {
+        "name": "联动管理"
+      },
+      "children": [
+        {
+          "name": "inlka",
+          "route": "/lkaman/inlka",
+          "zh": {
+            "name": "内网联动"
+          },
+          "wrt": 1
+        }
+      ]
+    },
+    {
+      "name": "userauth",
+      "icon": "Analysis",
+      "route": "/userauth",
+      "zh": {
+        "name": "用户认证"
+      },
+      "children": [
+        {
+          "name": "authparam",
+          "route": "/userauth/authparam",
+          "zh": { "name": "认证参数" }
+        },
+        {
+          "name": "pwdauth",
+          "route": "/userauth/pwdauth",
+          "zh": { "name": "密码认证" }
+        },
+        {
+          "name": "certiauth",
+          "route": "/userauth/certiauth",
+          "zh": { "name": "证书认证" }
+        }
+        ,
+        {
+          "name": "scancoauth",
+          "route": "/userauth/scancoauth",
+          "zh": { "name": "扫码认证" }
+        }
+      ]
+    },
+    {
+      "name": "userauth",
+      "icon": "Analysis",
+      "route": "/access",
+      "zh": {
+        "name": "准入配置"
+      },
+      "children": [
+        {
+          "name": "access_linkAccess",
+          "route": "/access/access_linkAccess",
+          "zh": { "name": "链路准入" }
+        },
+        {
+          "name": "access_policyTemplate",
+          "route": "/access/access_policyTemplate",
+          "zh": { "name": "端口准入" }
+        },
+        {
+          "name": "acctime",
+          "route": "/access/acctime",
+          "zh": {
+            "name": "准入时段"
+          },
+          "wrt": 1
+        },
+        {
+          "name": "advanced",
+          "route": "/access/advanced",
+          "zh": {
+            "name": "高级配置"
+          },
+          "wrt": 1
+        }
+      ]
+    },
+    {
+      "name": "visitmange",
+      "icon": "Analysis",
+      "route": "/visitmange",
+      "zh": {
+        "name": "访客管理"
+      },
+      "children": [
+        {
+          "name": "visitfield",
+          "route": "/visitmange/visitfield",
+          "zh": { "name": "访客字段" }
+        },
+        {
+          "name": "configur",
+          "route": "/visitmange/configur",
+          "zh": { "name": "参数配置" }
+        },
+        {
+          "name": "visitorlist",
+          "route": "/visitmange/visitorlist",
+          "zh": {
+            "name": "访客列表"
+          },
+          "wrt": 1
+        }
+      ]
+    }
+  ]
+}

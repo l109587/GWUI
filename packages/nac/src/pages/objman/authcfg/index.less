@@ -1,0 +1,21 @@
+.infoul{
+  padding-left: 20px !important;
+  margin-bottom: 0px !important;
+  li{
+    &:not(:last-child) {
+      margin-bottom: 5px;
+    }
+    &::marker{
+      color:#1677FF !important
+    }
+  }
+}
+.pop{
+  :global{
+    .ant-popover-content{
+      .ant-popover-arrow{
+        display: none;
+      }
+    }
+  }
+}

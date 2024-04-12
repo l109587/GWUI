@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "data": {
+    "asset": {
+      "title": "\u8d44\u4ea7\u7edf\u8ba1",
+      "pieData": [
+        {
+          "type": "计算机设备",
+          "value": 50,
+          "other": false
+        },
+        {
+          "type": "安全设备",
+          "value": 50,
+          "other": false
+        },
+        { "type": "网络设备", "value": 50, "other": false },
+        {
+          "type": "物联网设备",
+          "value": 50,
+          "other": false
+        },
+        {
+          "type": "服务器设备",
+          "value": 50,
+          "other": false
+        },
+        { "type": "其他设备", "value": 50, "other": false },
+        { "type": "移动设备", "value": 50, "other": false }
+      ],
+      "list": [
+        {
+          "id": "65535",
+          "type": "\u672a\u77e5\u7c7b\u578b",
+          "count": 41,
+          "num": "821"
+        },
+        {
+          "id": "1",
+          "type": "PC\u8ba1\u7b97\u673a",
+          "count": 28.999999999999996447286321199499070644378662109375,
+          "num": "573"
+        },
+        { "id": "49", "type": "\u670d\u52a1\u5668", "count": 26, "num": "512" },
+        { "id": "2", "type": "\u865a\u62df\u673a", "count": 2, "num": "48" },
+        {
+          "id": "98",
+          "type": "\u7b14\u8bb0\u672c\u7535\u8111",
+          "count": 0,
+          "num": "9"
+        }
+      ]
+    }
+  }
+}

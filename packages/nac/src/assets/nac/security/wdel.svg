@@ -1,0 +1,18 @@
+<svg id="外删除" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1212" data-name="矩形 1212"  width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_1234" data-name="组 1234" class="cls-2">
+    <path id="路径_3702" data-name="路径 3702"  d="M4.5,1h7a.5.5,0,0,0,0-1h-7a.5.5,0,0,0,0,1"/>
+    <path id="路径_3703" data-name="路径 3703"  d="M15.5,2H.5a.5.5,0,0,0,0,1H1V16H15V3h.5a.5.5,0,0,0,0-1M14,15H2V3H14Z"/>
+    <path id="路径_3704" data-name="路径 3704"  d="M5.479,13a.5.5,0,0,0,.5-.5v-7a.5.5,0,0,0-1,0v7a.5.5,0,0,0,.5.5"/>
+    <path id="路径_3705" data-name="路径 3705"  d="M10.479,13a.5.5,0,0,0,.5-.5v-7a.5.5,0,1,0-1,0v7a.5.5,0,0,0,.5.5"/>
+  </g>
+</svg>

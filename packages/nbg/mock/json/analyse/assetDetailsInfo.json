@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "assetInfo": {
+    "id": 1,
+    "online": 0,
+    "ip": "192.168.1.2",
+    "mac": "11:22:22:33:44:55",
+    "name": "my-pc2",
+    "type": "个人电脑",
+    "icon": "PC",
+    "vendor": "华为",
+    "model": "S5500-24P-SI",
+    "os": "macos",
+    "port": "445,8080",
+    "protocol": "SSH,HTTP",
+    "switchIP": "192.168.134.163",
+    "switchINF": "Ethernet0/0/15",
+    "lasttime": "2022-06-06 11:10",
+    "label": ["标签1"]
+  },
+  "riskInfo": {
+    "RiskVul": ["测试1"],
+    "RiskWeak": ["HFS", "FTP"],
+    "RiskPort": ["135", "139", "443", "902", "3389", "5357"]
+  },
+  "vioInfo": {
+    "vioOutline": ["测试"],
+    "vioInline": ["多网卡", "网中网"],
+    "vioService": ["匿名服务", "代理服务"]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "crtType": "",
+    "keyType": "",
+    "pwdAuth": "N",
+    "signAuth": "Y",
+    "outTime": "0",
+    "crlSW": "N",
+    "crlMode": "http",
+    "crlPeriod": "0",
+    "crlURL": "",
+    "crlBaseDN": "",
+    "crlFilter": "",
+    "crlAttrField": "",
+    "certChain": []
+  }
+}

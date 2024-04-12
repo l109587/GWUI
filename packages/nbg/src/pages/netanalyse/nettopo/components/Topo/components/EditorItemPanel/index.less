@@ -1,0 +1,86 @@
+@import '~antd/es/style/themes/default.less';
+
+
+.card{
+  :global{
+    .ant-card-body{
+      padding: 24px !important;
+    }
+  }
+}
+.itemPanel {
+  flex: 1;
+
+  :global {
+    .ant-card {
+      height: 100%
+    }
+    .ant-card-body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      > div {
+        margin-bottom: 16px;
+      }
+    }
+  }
+  .editIcon{
+    height: 42px;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid #e6f7ff ;
+    background-color: #fff;
+    .icon{
+      display: inline-block;
+      margin-right: 6px;
+    }
+  }
+}
+.space{
+  cursor: pointer;
+  margin-left: 8px;
+  :global{
+    .ant-space-item{
+      display: flex;
+    }
+  }
+}
+.upload{
+  margin-left: 18px;
+  :global{
+    .ant-upload-list-picture-card-container{
+      width: 75px;
+      margin: 0 24px 24px 0;
+    }
+    .ant-upload.ant-upload-select-picture-card{
+      width: 75px;
+      height: 75px;
+      margin: 0 24px 24px 0;
+    }
+    .ant-upload-list-picture-card .ant-upload-list-item{
+      padding: 12px;
+    }
+  }
+  .listContainer{
+    cursor: pointer;
+  }
+  .imgContainer{
+    width: 75px;
+    height: 75px;
+    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 6px;
+    border-radius: 5px;
+  }
+  .text{
+    text-align: center;
+  }
+  .selectedStyle{
+    border:1px solid #189FF6;
+  }
+}
+

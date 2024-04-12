@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "data": {
+    "qrcode": {
+      "sw": "Y",
+      "plant": "1.1.1.1",
+      "plantID": "1111",
+      "plantSecret": "22222",
+      "sysSID": "33333",
+      "url": "http://10.88.8.20:8080/index.php?m=login&f=getLoginToken"
+    },
+    "dtcode": {
+      "dtStatus": "Y",
+      "corpld": "4444",
+      "appKey": "5555",
+      "appSecret": "666",
+      "authInfo": "配置,描述,全网;配置1,描述1,内网"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "title": "资产统计",
+  "data": [
+    {
+      "type": "用户",
+      "value": 26221,
+      "other": false
+    },
+    {
+      "type": "其他",
+      "value": 38875,
+      "other": true
+    },
+    {
+      "type": "网络",
+      "value": 28947,
+      "other": false
+    },
+    {
+      "type": "虚拟化服务器",
+      "value": 35133,
+      "other": false
+    },
+    {
+      "type": "服务",
+      "value": 24033,
+      "other": false
+    }
+  ],
+  "list": [
+    { "id": "1", "type": "PC计算机", "num": "27", "count": "100" },
+    { "id": "2", "type": "虚拟机", "num": "27", "count": "14" },
+    { "id": "6", "type": "交换机", "num": "27", "count": "11" },
+    { "id": "28", "type": "网络准入", "num": "27", "count": "14" },
+    { "id": "33", "type": "安全设备", "num": "27", "count": "11" },
+    { "id": "34", "type": "网络设备", "num": "27", "count": "4" },
+    { "id": "35", "type": "虚拟化服务器", "num": "27", "count": "27" }
+  ]
+}

@@ -1,0 +1,142 @@
+<svg id="服务器堆" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.171" height="45" viewBox="0 0 48.171 45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path-7);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-path-8);
+      }
+
+      .cls-15 {
+        fill: url(#linear-gradient-6);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="路径_72" data-name="路径 72" class="cls-1" d="M0,22.432V30L25.743,45V37.43L0,22.424Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="1" x2="0.039" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4da0ff"/>
+      <stop offset="0.67" stop-color="#1c77d8"/>
+      <stop offset="0.994" stop-color="#0054b0"/>
+      <stop offset="1" stop-color="#0054b0"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="矩形_40" data-name="矩形 40" class="cls-1" width="48.171" height="45"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="路径_74" data-name="路径 74" class="cls-1" d="M25.743,37.43V45L48.171,31.9V24.435Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-1.148" y1="1" x2="-1.103" y2="1" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-4">
+      <path id="路径_75" data-name="路径 75" class="cls-1" d="M0,22.429,25.743,37.392,48.171,24.435,22.289,9.643Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" y1="1.274" x2="0.021" y2="1.274" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ad3fd"/>
+      <stop offset="0.465" stop-color="#4ab9f9"/>
+      <stop offset="0.994" stop-color="#189ff6"/>
+      <stop offset="1" stop-color="#189ff6"/>
+    </linearGradient>
+    <clipPath id="clip-path-5">
+      <path id="路径_76" data-name="路径 76" class="cls-1" d="M0,12.785v7.57l25.743,15v-7.57L0,12.781Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0" y1="1.427" x2="0.039" y2="1.427" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-7">
+      <path id="路径_78" data-name="路径 78" class="cls-1" d="M25.743,27.787v7.57l22.428-13.1V14.787Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="-1.148" y1="1.469" x2="-1.103" y2="1.469" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-8">
+      <path id="路径_79" data-name="路径 79" class="cls-1" d="M22.289,0,0,12.781,25.743,27.757l22.428-12.97Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-6" y1="1.621" x2="0.021" y2="1.621" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="组_54" data-name="组 54">
+    <g id="组_53" data-name="组 53" class="cls-2">
+      <rect id="矩形_39" data-name="矩形 39" class="cls-3" width="25.743" height="22.576" transform="translate(0 22.424)"/>
+    </g>
+  </g>
+  <g id="组_56" data-name="组 56">
+    <g id="组_55" data-name="组 55" class="cls-4">
+      <path id="路径_73" data-name="路径 73" class="cls-5" d="M2.208,25.894l16.507,9.673v1.224L2.208,27.118V25.894m0,2.532L18.715,38.1v1.224L2.208,29.65V28.426m18.034,7.936,3.036,1.821V41.59l-3.036-1.817V36.362Z"/>
+    </g>
+  </g>
+  <g id="组_58" data-name="组 58">
+    <g id="组_57" data-name="组 57" class="cls-6">
+      <rect id="矩形_41" data-name="矩形 41" class="cls-7" width="22.428" height="20.565" transform="translate(25.743 24.435)"/>
+    </g>
+  </g>
+  <g id="组_60" data-name="组 60">
+    <g id="组_59" data-name="组 59" class="cls-8">
+      <rect id="矩形_42" data-name="矩形 42" class="cls-9" width="48.171" height="27.749" transform="translate(0 9.643)"/>
+    </g>
+  </g>
+  <g id="组_62" data-name="组 62">
+    <g id="组_61" data-name="组 61" class="cls-10">
+      <rect id="矩形_43" data-name="矩形 43" class="cls-11" width="25.743" height="22.576" transform="translate(0 12.781)"/>
+    </g>
+  </g>
+  <g id="组_64" data-name="组 64">
+    <g id="组_63" data-name="组 63" class="cls-4">
+      <path id="路径_77" data-name="路径 77" class="cls-5" d="M2.208,16.246l16.507,9.673v1.224L2.208,17.47V16.246Zm0,2.532,16.507,9.673v1.224L2.208,20V18.778Zm18.034,7.94,3.036,1.821v3.423l-3.036-1.816V26.718Z"/>
+    </g>
+  </g>
+  <g id="组_66" data-name="组 66">
+    <g id="组_65" data-name="组 65" class="cls-12">
+      <rect id="矩形_45" data-name="矩形 45" class="cls-13" width="22.428" height="20.57" transform="translate(25.743 14.787)"/>
+    </g>
+  </g>
+  <g id="组_68" data-name="组 68">
+    <g id="组_67" data-name="组 67" class="cls-14">
+      <rect id="矩形_46" data-name="矩形 46" class="cls-15" width="48.171" height="27.757"/>
+    </g>
+  </g>
+</svg>

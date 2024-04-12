@@ -1,0 +1,22 @@
+{
+	"success": true,
+	"total": 4,
+	"data": [
+		{
+			"value": "全局配置",
+			"label": "全局配置"
+		},
+		{
+			"value": "个性配置",
+			"label": "个性配置"
+		},
+		{
+			"value": "是第三项",
+			"label": "是第三项"
+		},
+		{
+			"value": "是第四项",
+			"label": "是第四项"
+		}
+	]
+}

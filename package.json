@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/nta",
+    "packages/dmc",
+    "packages/nbg",
+    "packages/nba",
+    "packages/tac",
+    "packages/nac",
+    "packages/dsp",
+    "framework"
+  ]
+}

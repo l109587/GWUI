@@ -1,0 +1,20 @@
+<svg id="软件安装" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1284" data-name="矩形 1284" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="组_1360" data-name="组 1360" class="cls-2">
+    <path id="路径_3804" data-name="路径 3804" class="cls-1" d="M17.5,0H2.5A2.5,2.5,0,0,0,0,2.5v15A2.5,2.5,0,0,0,2.5,20h15A2.5,2.5,0,0,0,20,17.5V2.5A2.5,2.5,0,0,0,17.5,0m1.25,17.5a1.252,1.252,0,0,1-1.25,1.25H2.5A1.252,1.252,0,0,1,1.25,17.5V2.5A1.252,1.252,0,0,1,2.5,1.25h15A1.252,1.252,0,0,1,18.75,2.5Z"/>
+    <path id="路径_3805" data-name="路径 3805" class="cls-1" d="M14.047,9.13,9.811,13.366V3.625a.625.625,0,0,0-1.25,0v9.741L4.325,9.13a.625.625,0,0,0-.884.884l5.3,5.3.005,0a.621.621,0,0,0,.676.132.639.639,0,0,0,.2-.135l5.3-5.3a.625.625,0,0,0-.884-.884" transform="translate(0.814 0.75)"/>
+  </g>
+</svg>

@@ -1,0 +1,285 @@
+.dmcIndexCont {
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-right: -6px;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 4px;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(157, 165, 183, 0.7);
+  }
+
+  .autoTable .ant-table-body {
+    &::-webkit-scrollbar {
+      width: 8px;
+      height: 4px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      // background-color: #ccc; // 滑块颜色 
+      background-color: #fff;
+      border-radius: 5px; // 滑块圆角 
+      border-style: dashed;
+      border-color: transparent;
+      border-width: 1.5px;
+      background-clip: padding-box;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+      background-color: #fff;
+    }
+  }
+
+  .autoTable {
+    :hover {
+      &::-webkit-scrollbar {
+        width: 8px;
+        height: 4px;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        // background-color: #ccc; // 滑块颜色 
+        background-color: rgba(157, 165, 183, 0.4);
+        border-radius: 5px; // 滑块圆角 
+        border-style: dashed;
+        border-color: transparent;
+        border-width: 1.5px;
+        background-clip: padding-box;
+      }
+
+      &::-webkit-scrollbar-thumb:hover {
+        background-color: rgba(157, 165, 183, 0.7);
+      }
+    }
+  }
+
+  .ant-table-thead tr th {
+    background-color: #fff !important;
+  }
+
+  .ant-table-thead>tr>th:not(:last-child):not(.ant-table-selection-column):not(.ant-table-row-expand-icon-cell):not([colspan])::before {
+    display: none;
+  }
+
+  .ant-table-body {
+    overflow-y: auto;
+
+    &::-webkit-scrollbar {
+      width: 8px;
+      height: 4px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      // background-color: #ccc; // 滑块颜色 
+      background-color: rgba(157, 165, 183, 0.4);
+      border-radius: 5px; // 滑块圆角 
+      border-style: dashed;
+      border-color: transparent;
+      border-width: 1.5px;
+      background-clip: padding-box;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+      background-color: rgba(157, 165, 183, 0.7);
+    }
+  }
+
+  // overflow-y: auto;
+
+  // ::-webkit-scrollbar {
+  //   display: none;
+  // }
+
+  .imgDiv {
+    width: 30px;
+    height: 24px;
+    text-align: center;
+  }
+
+  .ant-divider {
+    margin: 0 0 12px 0;
+  }
+
+  .statisCard {
+    background-color: white;
+
+    .ant-pro-card-header {
+      padding: 9px 18px 9px 0 !important;
+      height: 44px;
+
+      .headerBg {
+        width: 30px;
+        height: 24px;
+        border-radius: 0 15px 15px 0;
+        text-align: center;
+      }
+
+      .cascTitle {
+        background-color: #2B6AFD;
+      }
+
+      .cascExtraDiv {
+        background-color: #12C189;
+        width: 67px;
+        height: 26px;
+        line-height: 20px;
+        border-radius: 20px;
+        text-align: center;
+        color: white;
+        display: flex;
+        align-items: center;
+        padding: 5px 8px;
+        justify-content: space-evenly;
+      }
+
+      .devStateTitle {
+        background-color: #5BD9A7;
+      }
+
+      .legendDiv {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-right: 10px;
+
+        .onlineColor {
+          width: 13px;
+          height: 8px;
+          background-color: #0263FF;
+          margin-right: 5px;
+        }
+
+        .regisColor {
+          width: 13px;
+          height: 8px;
+          background-color: #68BBCE;
+          margin-right: 5px;
+        }
+
+        .authColor {
+          width: 13px;
+          height: 8px;
+          background-color: #65DB6B;
+          margin-right: 5px;
+        }
+      }
+
+      .devStatisTitle {
+        background-color: #6DC8EC;
+      }
+    }
+
+    .cascCardBody {
+      padding: 3px 12px 3px 20px;
+      height: 160px;
+    }
+
+    .colorBgDiv {
+      padding: 3px 12px 12px 12px;
+      height: 160px;
+
+      .normalDiv {
+        background-color: #F9FDFB;
+        text-align: center;
+        padding: 10px 12px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+
+        img {
+          width: 48px;
+          height: 48px;
+        }
+      }
+
+      .breakDiv {
+        background-color: #FFF9F6;
+        text-align: center;
+        padding: 10px 12px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+
+        img {
+          width: 48px;
+          height: 48px;
+        }
+      }
+
+      .auditDiv {
+        background-color: #F8F9FC;
+        text-align: center;
+        padding: 10px 12px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+
+        img {
+          width: 48px;
+          height: 48px;
+        }
+      }
+
+      .numDiv {
+        padding: 5px;
+        color: #101010;
+        font-size: 18px;
+      }
+    }
+
+  }
+
+  .ststisticRow {
+
+    .ant-pro-card-header {
+      padding: 9px 18px 9px 0 !important;
+
+      .ant-pro-card-title {
+        padding-left: 6px;
+
+        .titleDiv {
+          display: flex;
+          align-items: center;
+
+          span {
+            height: 20px;
+          }
+        }
+      }
+    }
+
+    .thirdCard {
+      background-color: white;
+    }
+  }
+
+}
+
+.dmcIndexCont:hover {
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 4px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    // background-color: #ccc; // 滑块颜色 
+    background-color: rgba(157, 165, 183, 0.4);
+    border-radius: 5px; // 滑块圆角 
+    border-style: dashed;
+    border-color: transparent;
+    border-width: 1.5px;
+    background-clip: padding-box;
+  }
+}

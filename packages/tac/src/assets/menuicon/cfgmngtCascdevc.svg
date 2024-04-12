@@ -1,0 +1,22 @@
+<svg id="级联设备" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1077" data-name="矩形 1077" class="cls-1" width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="组_1150" data-name="组 1150" class="cls-2">
+    <path id="路径_3563" data-name="路径 3563" class="cls-1" d="M25.965,17.883V3.248A3.248,3.248,0,0,0,22.719,0H3.246A3.246,3.246,0,0,0,0,3.248v19.5A3.246,3.246,0,0,0,3.246,26H22.719a3.248,3.248,0,0,0,3.247-3.248V19.508H26V17.883Zm-1.622,4.868a1.628,1.628,0,0,1-1.625,1.625H3.246a1.627,1.627,0,0,1-1.625-1.625V19.508H24.344Zm0-4.868H1.621V3.248A1.625,1.625,0,0,1,3.246,1.625H22.719a1.626,1.626,0,0,1,1.625,1.623Z" transform="translate(0.001)"/>
+    <rect id="矩形_1075" data-name="矩形 1075" class="cls-1" width="8.114" height="1.625" transform="translate(4.903 21.132)"/>
+    <rect id="矩形_1076" data-name="矩形 1076" class="cls-1" width="3.245" height="1.625" transform="translate(17.886 21.132)"/>
+    <path id="路径_3564" data-name="路径 3564" class="cls-1" d="M4,6.875v6.5H7.25V15H17V10.125H7.25V11.75H5.625V6.875H17V2H4ZM8.875,11.75h6.5v1.625h-6.5ZM5.625,3.625h9.75V5.25H5.625Z" transform="translate(2.5 1.25)"/>
+  </g>
+</svg>

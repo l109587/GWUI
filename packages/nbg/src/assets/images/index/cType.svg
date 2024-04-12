@@ -1,0 +1,25 @@
+<svg id="C类网段" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1039" data-name="矩形 1039" class="cls-1" width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="组_1088" data-name="组 1088" class="cls-2">
+    <path id="路径_3495" data-name="路径 3495" class="cls-1" d="M32,2a2,2,0,0,0-2-2H2A2,2,0,0,0,0,2V12a1.954,1.954,0,0,0,.306,1A1.954,1.954,0,0,0,0,14V24a2,2,0,0,0,2,2H15v2H14v2H0v2H32V30H18V28H17V26H30a2,2,0,0,0,2-2V14a1.954,1.954,0,0,0-.306-1A1.954,1.954,0,0,0,32,12ZM2,2H30V12H2ZM30,24H2V14H30Z"/>
+    <path id="路径_3496" data-name="路径 3496" class="cls-1" d="M7,2H5A2,2,0,0,0,3,4V6A2,2,0,0,0,5,8H7A2,2,0,0,0,9,6V4A2,2,0,0,0,7,2M7,6H5V4H7Z" transform="translate(3 2)"/>
+    <path id="路径_3497" data-name="路径 3497" class="cls-1" d="M15,2H13a2,2,0,0,0-2,2V6a2,2,0,0,0,2,2h2a2,2,0,0,0,2-2V4a2,2,0,0,0-2-2m0,4H13V4h2Z" transform="translate(11 2)"/>
+    <path id="路径_3498" data-name="路径 3498" class="cls-1" d="M11,2H9A2,2,0,0,0,7,4V6A2,2,0,0,0,9,8h2a2,2,0,0,0,2-2V4a2,2,0,0,0-2-2m0,4H9V4h2Z" transform="translate(7 2)"/>
+    <path id="路径_3499" data-name="路径 3499" class="cls-1" d="M5,14H7a2,2,0,0,0,2-2V10A2,2,0,0,0,7,8H5a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2m0-4H7v2H5Z" transform="translate(3 8)"/>
+    <path id="路径_3500" data-name="路径 3500" class="cls-1" d="M13,14h2a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2H13a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2m0-4h2v2H13Z" transform="translate(11 8)"/>
+    <path id="路径_3501" data-name="路径 3501" class="cls-1" d="M9,14h2a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2H9a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2m0-4h2v2H9Z" transform="translate(7 8)"/>
+  </g>
+</svg>

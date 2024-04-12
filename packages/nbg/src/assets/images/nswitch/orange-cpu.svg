@@ -1,0 +1,23 @@
+<svg id="CPU-橙" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff6f00;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_926" data-name="矩形 926" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_977" data-name="组 977" class="cls-2">
+    <path id="路径_3406" data-name="路径 3406" class="cls-1" d="M10.486,4H5.514a1.5,1.5,0,0,0-1.5,1.5v4.975a1.5,1.5,0,0,0,1.5,1.5h4.972a1.5,1.5,0,0,0,1.5-1.5V5.5a1.5,1.5,0,0,0-1.5-1.5m.5,6.479a.5.5,0,0,1-.5.5H5.514a.5.5,0,0,1-.5-.5V5.5a.5.5,0,0,1,.5-.5h4.972a.5.5,0,0,1,.5.5Z"/>
+    <rect id="矩形_923" data-name="矩形 923" class="cls-1" width="1" height="2" transform="translate(5 14)"/>
+    <rect id="矩形_924" data-name="矩形 924" class="cls-1" width="1" height="2" transform="translate(8 14)"/>
+    <rect id="矩形_925" data-name="矩形 925" class="cls-1" width="1" height="2" transform="translate(10.979 14)"/>
+    <path id="路径_3407" data-name="路径 3407" class="cls-1" d="M16,5V4H13.989V3.5a1.5,1.5,0,0,0-1.5-1.5h-.506V0h-1V2H9V0H8V2H6V0H5V2H3.515a1.5,1.5,0,0,0-1.5,1.5V4H0V5H2.011V7.009H0v1H2.011V10H0v1H2.011v1.479a1.5,1.5,0,0,0,1.5,1.5h8.97a1.5,1.5,0,0,0,1.5-1.5V11H16V10H13.989V8.009H16v-1H13.989V5Zm-3.011,7.479a.5.5,0,0,1-.5.5H3.515a.5.5,0,0,1-.5-.5V3.5a.5.5,0,0,1,.5-.5h8.97a.5.5,0,0,1,.5.5Z"/>
+  </g>
+</svg>

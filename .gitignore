@@ -1,0 +1,164 @@
+
+# node_modules
+/node_modules
+# nta
+/packages/nta/node_modules
+#submodules
+/packages/nta/src/components
+/packages/nta/src/layouts
+/packages/nta/src/pages/common
+/packages/nta/src/services
+/packages/nta/src/themes
+/packages/nta/src/utils
+/packages/nta/src/models
+/packages/nta/src/assets/common
+/packages/nta/src/assets/topology
+/packages/nta/src/assets/switch
+/packages/nta/src/assets/alibaba
+/packages/nta/src/assets/iconfont
+/packages/nta/src/locales/zh-CN/common
+/packages/nta/public
+# umi
+/packages/nta/src/.umi-production
+/packages/nta/src/.umi
+#dist
+/packages/nta/dist
+
+# dmc
+/packages/dmc/node_modules
+#submodules
+/packages/dmc/src/components
+/packages/dmc/src/layouts
+/packages/dmc/src/pages/common
+/packages/dmc/src/services
+/packages/dmc/src/themes
+/packages/dmc/src/utils
+/packages/dmc/src/models
+/packages/dmc/src/assets/common
+/packages/dmc/src/assets/topology
+/packages/dmc/src/assets/switch
+/packages/dmc/src/assets/alibaba
+/packages/dmc/src/assets/iconfont
+/packages/dmc/src/locales/zh-CN/common
+/packages/dmc/public
+# umi
+/packages/dmc/src/.umi-production
+/packages/dmc/src/.umi
+#dist
+/packages/dmc/dist
+
+# nbg
+/packages/nbg/node_modules
+#submodules
+/packages/nbg/src/components
+/packages/nbg/src/layouts
+/packages/nbg/src/pages/common
+/packages/nbg/src/services
+/packages/nbg/src/themes
+/packages/nbg/src/utils
+/packages/nbg/src/models
+/packages/nbg/src/assets/common
+/packages/nbg/src/assets/topology
+/packages/nbg/src/assets/switch
+/packages/nbg/src/assets/alibaba
+/packages/nbg/src/assets/iconfont
+/packages/nbg/src/locales/zh-CN/common
+/packages/nbg/public
+# umi
+/packages/nbg/src/.umi-production
+/packages/nbg/src/.umi
+#dist
+/packages/nbg/dist
+
+# nba
+/packages/nba/node_modules
+#submodules
+/packages/nba/src/components
+/packages/nba/src/layouts
+/packages/nba/src/pages/common
+/packages/nba/src/services
+/packages/nba/src/themes
+/packages/nba/src/utils
+/packages/nba/src/models
+/packages/nba/src/assets/common
+/packages/nba/src/assets/topology
+/packages/nba/src/assets/switch
+/packages/nba/src/assets/alibaba
+/packages/nba/src/assets/iconfont
+/packages/nba/src/locales/zh-CN/common
+/packages/nba/public
+# umi
+/packages/nba/src/.umi-production
+/packages/nba/src/.umi
+#dist
+/packages/nba/dist
+
+# tac
+/packages/tac/node_modules
+#submodules
+/packages/tac/src/components
+/packages/tac/src/layouts
+/packages/tac/src/pages/common
+/packages/tac/src/services
+/packages/tac/src/themes
+/packages/tac/src/utils
+/packages/tac/src/models
+/packages/tac/src/assets/common
+/packages/tac/src/assets/topology
+/packages/tac/src/assets/switch
+/packages/tac/src/assets/alibaba
+/packages/tac/src/assets/iconfont
+/packages/tac/src/locales/zh-CN/common
+/packages/tac/public
+# umi
+/packages/tac/src/.umi-production
+/packages/tac/src/.umi
+#dist
+/packages/tac/dist
+
+
+# nac
+/packages/nac/node_modules
+#submodules
+/packages/nac/src/components
+/packages/nac/src/layouts
+/packages/nac/src/pages/common
+/packages/nac/src/services
+/packages/nac/src/themes
+/packages/nac/src/utils
+/packages/nac/src/models
+/packages/nac/src/assets/common
+/packages/nac/src/assets/topology
+/packages/nac/src/assets/switch
+/packages/nac/src/assets/alibaba
+/packages/nac/src/assets/iconfont
+/packages/nac/src/locales/zh-CN/common
+/packages/nac/public
+# umi
+/packages/nac/src/.umi-production
+/packages/nac/src/.umi
+#dist
+/packages/nac/dist
+
+# dsp
+/packages/dsp/node_modules
+#submodules
+/packages/dsp/src/components
+/packages/dsp/src/layouts
+/packages/dsp/src/pages/common
+/packages/dsp/src/services
+/packages/dsp/src/themes
+/packages/dsp/src/utils
+/packages/dsp/src/models
+/packages/dsp/src/assets/common
+/packages/dsp/src/assets/topology
+/packages/dsp/src/assets/switch
+/packages/dsp/src/assets/alibaba
+/packages/dsp/src/assets/iconfont
+/packages/dsp/src/locales/zh-CN/common
+/packages/dsp/public
+# umi
+/packages/dsp/src/.umi-production
+/packages/dsp/src/.umi
+#dist
+/packages/dsp/dist

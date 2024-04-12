@@ -1,0 +1,668 @@
+.nbgIndexContent {
+  overflow-y: auto;
+  overflow-x: auto;
+  height: 100%;
+  width: calc(100% + 12px);
+  margin: -2px !important;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    // background-color: #ccc; // 滑块颜色 
+    background-color: rgba(157, 165, 183, 0.4);
+    border-radius: 5px; // 滑块圆角 
+    border-style: dashed;
+    border-color: transparent;
+    border-width: 1.5px;
+    background-clip: padding-box;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(157, 165, 183, 0.7);
+  }
+
+  .cardTitle {
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+
+    .titleImg {
+      height: 24px;
+      text-align: center;
+    }
+
+    span {
+      height: 20px;
+      margin-left: 5px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+  }
+
+  .firstCard {
+    color: #FFFFFF;
+
+    .itemCol {
+      width: 100%;
+      height: 100%;
+      height: 130px;
+
+      .bgImgDiv {
+        padding: 8px 12px 8px 12px;
+        height: 130px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+        .heaerTitle {
+          font-size: 14px;
+          height: 25px;
+        }
+
+        .stasticImgDiv {
+          width: 100%;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          height: 80px;
+          margin-bottom: 5px;
+
+          .recentData {
+            display: flex;
+            height: 44px;
+            line-height: 42px;
+          }
+
+          .stasticNum {
+            font-size: 28px;
+            font-weight: 600;
+          }
+
+          .times {
+            margin-left: 8px;
+            font-size: 12px;
+            opacity: 0.8;
+            margin-top: 5px;
+          }
+        }
+
+        .itemTypeDiv {
+          height: 25px;
+          width: 100%;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+
+          .typeADiv {
+            height: 22px;
+            line-height: 22px;
+            display: flex;
+            align-items: center;
+          }
+
+          .typeBDiv {
+            height: 22px;
+            line-height: 22px;
+            display: flex;
+            align-items: center;
+          }
+        }
+      }
+    }
+  }
+
+  .secondCard {
+    .ant-pro-card-header {
+      height: 43px;
+      padding: 12px 12px;
+    }
+
+    .colcountDiv {
+
+      .ant-progress-outer {
+        width: calc(100% - 15px) !important;
+        .ant-progress-bg {
+          height: 10px !important;
+        }
+      }
+
+      .ant-progress-text {
+        color: #666;
+      }
+    }
+
+    .autoTable {
+      .ant-table {
+        table {
+          border-collapse: collapse !important;
+        }
+      }
+
+      th {
+        padding: 0 !important;
+      }
+
+      .ant-table-body {
+        min-height: 150px;
+
+        // .ant-table-thead {
+        //   height: 43px;
+        // }
+
+        // .ant-table-row {
+        //   height: 43px;
+        // }
+
+
+        td {
+          padding: 0 !important;
+        }
+
+        &::-webkit-scrollbar {
+          width: 8px;
+          height: 4px;
+        }
+
+        &::-webkit-scrollbar-thumb {
+          // background-color: #ccc; // 滑块颜色
+          background-color: #fff;
+          border-radius: 5px; // 滑块圆角
+          border-style: dashed;
+          border-color: transparent;
+          border-width: 1.5px;
+          background-clip: padding-box;
+        }
+
+        &::-webkit-scrollbar-thumb:hover {
+          background-color: #fff;
+        }
+      }
+    }
+
+    .autoTable {
+      :hover {
+        &::-webkit-scrollbar {
+          width: 8px;
+          height: 4px;
+        }
+
+        &::-webkit-scrollbar-thumb {
+          // background-color: #ccc; // 滑块颜色
+          background-color: rgba(157, 165, 183, 0.4);
+          border-radius: 5px; // 滑块圆角
+          border-style: dashed;
+          border-color: transparent;
+          border-width: 1.5px;
+          background-clip: padding-box;
+        }
+
+        &::-webkit-scrollbar-thumb:hover {
+          background-color: rgba(157, 165, 183, 0.7);
+        }
+      }
+    }
+
+    .ant-table-thead tr th {
+      background-color: #fff !important;
+    }
+
+    .ant-table-thead>tr>th:not(:last-child):not(.ant-table-selection-column):not(.ant-table-row-expand-icon-cell):not([colspan])::before {
+      display: none;
+    }
+
+    .lengedDiv {
+      text-align: center;
+      height: 22px;
+      line-height: 22px;
+      margin-top: 7px;
+      font-size: 14px;
+
+      .pointLenged {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: #12c189;
+        margin-right: 10px;
+      }
+    }
+
+    .perentTitle {
+      margin-top: 16px;
+      // padding-top: 0.1rem;
+
+      .bluePoint {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: #5087ec;
+      }
+    }
+
+    .perentDiv {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-left: 21px;
+      height: 20px;
+      line-height: 20px;
+      color: #6F6F6F;
+      margin-top: 5px;
+
+      div {
+        white-space: nowrap;
+      }
+    }
+
+    .trendDiv {
+      text-align: center;
+
+      .assetPointer {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: rgb(215, 134, 131);
+        margin-right: 10px;
+      }
+    }
+  }
+
+  .vioriskCard {
+    .ant-pro-card-header {
+      height: 43px;
+      padding: 12px 12px;
+    }
+
+    .violaItemDiv {
+      background-color: #fbfcfe;
+      display: flex;
+      align-items: center;
+
+      .outserStatisDIv {
+        width: 50%;
+        padding: 8px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+        .titleDiv {
+          .outColor {
+            background-color: #ec6211;
+          }
+
+          .serColor {
+            background-color: #ffbf2b;
+          }
+
+          .bgColorSpan {
+            display: inline-block;
+            width: 6px;
+            height: 24px;
+          }
+
+          .textSpan {
+            color: #4d4d4d;
+            font-size: 14px;
+            width: 56px;
+            height: 16px;
+            font-weight: 600;
+            margin-left: 5px;
+          }
+        }
+
+        .staNumDiv {
+          font-size: 28px;
+          font-weight: 700;
+          margin-left: 11px;
+        }
+
+        .outNum {
+          color: #ec6211;
+        }
+
+        .serNum {
+          color: #3a3a3a;
+        }
+
+        .timesNum {
+          margin-left: 11px;
+          color: #6f6f6f;
+          font-size: 14px;
+          white-space: nowrap;
+        }
+      }
+
+      .outserImgDiv {
+        width: 50%;
+        text-align: center;
+      }
+
+      .innsvrDataDiv {
+        width: 50%;
+        padding: 8px;
+        height: 100%;
+
+        .bgColorSpan {
+          display: inline-block;
+          width: 6px;
+          height: 24px;
+        }
+
+        .illColor {
+          background-color: #E79641;
+        }
+
+        .isrColor {
+          background-color: #F2BD42;
+        }
+
+        .textSpan {
+          color: #4d4d4d;
+          font-size: 14px;
+          width: 56px;
+          height: 16px;
+          font-weight: 700;
+          margin-left: 5px;
+        }
+
+        .staticNumDiv {
+          width: 32px;
+          height: 33px;
+          font-size: 28px;
+          color: #E79641;
+          font-weight: 700;
+          margin-left: 11px;
+          margin-top: 0.23rem;
+        }
+      }
+
+      .innsvrImgDiv {
+        width: 50%;
+        text-align: center;
+        height: 100%;
+        padding: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .imgContent {
+          background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
+            url("../../assets/images/index/illinnImg.png") no-repeat 0% 20% / cover;
+        }
+
+        .srvimgContent {
+          background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
+            url("../../assets/images/index/illsvrImg.png") no-repeat 0% 20% / cover;
+          // max-width: 76px;
+          // max-height: 76px;
+        }
+
+        .innNetData {
+          height: 100%;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+
+          .itemInnData {
+            display: flex;
+            align-items: center;
+            width: 100%;
+
+            span {
+              white-space: nowrap;
+            }
+
+            .textSpan {
+              margin-left: 8px;
+            }
+
+            .numSpan {
+              margin-left: 8px;
+            }
+          }
+
+          img {
+            width: 16px;
+            height: 16px;
+          }
+        }
+
+        .innSvrData {
+          height: 100%;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          align-items: center;
+
+          .itemSvrData {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: calc(100% + 20px);
+            margin-left: -20px;
+
+            .imgTitleDiv {
+              display: flex;
+              align-items: center;
+
+              img {
+                width: 16px;
+                height: 16px;
+              }
+
+              span {
+                margin-left: 8px;
+                white-space: nowrap;
+              }
+            }
+          }
+        }
+
+        // img {
+        //   opacity: 0.5;
+        //   filter: alpha(opacity=50);
+        // }
+      }
+    }
+  }
+
+  .riskCard {
+    .flexDiv {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+
+      .sysflowPonit {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: #E8B338;
+      }
+
+      .rankDiv {
+        margin-left: 20px;
+        padding-right: 10px;
+        width: calc(100% - 20px);
+        height: calc(100% - 40px);
+        overflow-y: auto;
+        background-color: #FBFCFE;
+        min-height: 88px;
+        margin-top: 10px;
+
+        &::-webkit-scrollbar {
+          width: 8px;
+          height: 4px;
+        }
+
+        &::-webkit-scrollbar-thumb:hover {
+          background-color: rgba(157, 165, 183, 0.7);
+        }
+
+        .rankItemDiv {
+          font-size: 14px;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          height: calc(100% / 3 - 3px);
+
+          div {
+            height: 100%;
+            width: 33%;
+            padding-top: 2px;
+            padding-bottom: 2px;
+          }
+
+          .rankFirst {
+            // width: 60px;
+            background: linear-gradient(87.88deg, rgba(251, 172, 149, 1) 1.92%, rgba(255, 255, 255, 0) 98.48%);
+            color: #D97773;
+            font-size: 14px;
+            padding-left: 10px;
+            font-family: Helvetica-bold;
+            font-weight: 700;
+            font-style: italic;
+          }
+
+          .rankSecond {
+            // width: 60px;
+            background: linear-gradient(87.88deg, rgba(252, 199, 149, 1) 1.92%, rgba(255, 255, 255, 0) 98.48%);
+            padding-left: 10px;
+            color: #EF9D4C;
+            font-family: Helvetica-bold;
+            font-weight: 700;
+            font-style: italic;
+          }
+
+          .rankThird {
+            // width: 60px;
+            background: linear-gradient(87.88deg, rgba(251, 226, 157, 1) 1.92%, rgba(255, 255, 255, 0) 98.48%);
+            padding-left: 10px;
+            color: #E0B67D;
+            font-family: Helvetica-bold;
+            font-weight: 700;
+            font-style: italic;
+          }
+
+          .rankOthers {
+            // width: 60px;
+            background: linear-gradient(87.88deg, rgba(239, 239, 239, 1) 1.92%, rgba(255, 255, 255, 0) 98.48%);
+            padding-left: 10px;
+            color: #9A9A9A;
+            font-family: Helvetica-bold;
+            font-weight: 700;
+            font-style: italic;
+          }
+
+          .nameDiv {
+            font-size: 14px;
+            color: #595959;
+            font-family: Helvetica-regular;
+            // width: 100px;
+            margin-left: -19px;
+            white-space: nowrap;
+          }
+
+          .firstNumDiv {
+            color: #D97773;
+            font-size: 14px;
+            font-weight: 600;
+            // width: 20px;
+            font-family: Helvetica-regular;
+            text-align: right;
+            padding-right: 5px;
+          }
+
+          .secondNumDiv {
+            color: #EF9D4C;
+            font-size: 14px;
+            font-weight: 600;
+            // width: 20px;
+            font-family: Helvetica-regular;
+            text-align: right;
+            padding-right: 5px;
+          }
+
+          .thirdNumDiv {
+            color: #E0B679;
+            font-size: 14px;
+            font-weight: 600;
+            // width: 20px;
+            font-family: Helvetica-regular;
+            text-align: right;
+            padding-right: 5px;
+          }
+
+          .otherNumDiv {
+            color: #4B4B4B;
+            font-size: 14px;
+            font-weight: 600;
+            // width: 20px;
+            font-family: Helvetica-regular;
+            text-align: right;
+            padding-right: 5px;
+          }
+        }
+
+        .rankItemDiv:not(:first-child) {
+          margin-top: 6px;
+        }
+
+      }
+
+      .rankDiv:hover {
+        overflow-y: auto;
+
+        &::-webkit-scrollbar {
+          width: 8px;
+          height: 4px;
+        }
+
+        &::-webkit-scrollbar-thumb {
+          // background-color: #ccc; // 滑块颜色 
+          background-color: rgba(157, 165, 183, 0.4);
+          border-radius: 5px; // 滑块圆角 
+          border-style: dashed;
+          border-color: transparent;
+          border-width: 1.5px;
+          background-clip: padding-box;
+        }
+
+        &::-webkit-scrollbar-thumb:hover {
+          background-color: rgba(157, 165, 183, 0.7);
+        }
+      }
+    }
+  }
+}
+
+.nbgIndexContent:hover {
+  overflow-y: auto;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    // background-color: #ccc; // 滑块颜色 
+    background-color: rgba(157, 165, 183, 0.4);
+    border-radius: 5px; // 滑块圆角 
+    border-style: dashed;
+    border-color: transparent;
+    border-width: 1.5px;
+    background-clip: padding-box;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(157, 165, 183, 0.7);
+  }
+}

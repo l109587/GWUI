@@ -1,0 +1,23 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.021" height="15.995" viewBox="0 0 16.021 15.995">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #BBBBBB;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1331" data-name="矩形 1331" class="cls-1" width="16.021" height="15.995" transform="translate(0 0)"/>
+    </clipPath>
+  </defs>
+  <g id="组_1466" data-name="组 1466" transform="translate(0 0)">
+    <g id="组_1465" data-name="组 1465" class="cls-2">
+      <path id="路径_4058" data-name="路径 4058" class="cls-1" d="M14.021,0H6.042a2,2,0,0,0-2,2h7.979a2,2,0,0,1,2,2v7.992a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2"/>
+      <path id="路径_4059" data-name="路径 4059" class="cls-1" d="M11.021,2.994H2a2,2,0,0,0-2,2v9a2,2,0,0,0,2,2h9.021a2,2,0,0,0,2-2v-9a2,2,0,0,0-2-2m-.5,7h-3.5v3.5a.5.5,0,1,1-1,0v-3.5h-3.5a.5.5,0,1,1,0-1h3.5v-3.5a.5.5,0,0,1,1,0v3.5h3.5a.5.5,0,0,1,0,1"/>
+    </g>
+  </g>
+</svg>

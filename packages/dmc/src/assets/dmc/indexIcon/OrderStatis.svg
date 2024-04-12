@@ -1,0 +1,24 @@
+<svg id="指令统计" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1677ff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_972" data-name="矩形 972" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_1015" data-name="组 1015" class="cls-2">
+    <path id="路径_3446" data-name="路径 3446" class="cls-1" d="M14,0H2A2,2,0,0,0,0,2V14a2,2,0,0,0,2,2H14a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2m1,14a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1H14a1,1,0,0,1,1,1Z"/>
+    <rect id="矩形_968" data-name="矩形 968" class="cls-1" width="1" height="5" transform="translate(3 9)"/>
+    <rect id="矩形_969" data-name="矩形 969" class="cls-1" width="1" height="4" transform="translate(9 10)"/>
+    <rect id="矩形_970" data-name="矩形 970" class="cls-1" width="1" height="7" transform="translate(6 7)"/>
+    <rect id="矩形_971" data-name="矩形 971" class="cls-1" width="1.056" height="6" transform="translate(11.944 8)"/>
+    <path id="路径_3447" data-name="路径 3447" class="cls-1" d="M12.675,2.12l-3.152,2.7L6.479,1.84,2.2,5.1a.5.5,0,0,0,.606.8L6.4,3.16l3.08,3.019,3.848-3.3a.5.5,0,1,0-.65-.76"/>
+  </g>
+</svg>
